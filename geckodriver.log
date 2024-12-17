@@ -1,0 +1,26 @@
+1733714135798	geckodriver	INFO	Listening on 127.0.0.1:50177
+1733714138871	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--width=314" "--height=480" "--remote-debuggi ... 78" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilexmku25"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733714139090	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-width"
+console.error: "Warning: unrecognized command line flag" "-height"
+1733714139154	Marionette	INFO	Listening on port 50288
+WebDriver BiDi listening on ws://127.0.0.1:50178
+Read port: 50288
+1733714139252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v4i5Ln4/yH/l/zh_TW/2g_t5G3XQnw.js, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v4i5Ln4/yH/l/zh_TW/2g_t5G3XQnw.js, line 33: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v4iuUD4/ye/l/zh_TW/qL45RSiqD_zuKr6AzRSrUCiI9WywbQdlDpwtNkWeKh-7.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v4iXT24/ye/l/rt/6rEoWuwE4cfGkos8pPPKdr6tuV7h9_UuS3uJTbNFnN_DyWKN0Hoz4FtgNWSTakFL68z6yik6kQYFhQDBdntLNlXYA4N9UACF6HiebPGwKpaZY6yHZb9oG2ECbw--IUzESJymqyxDvFsbawXaCkAxl4CCdoZTxfvw9_jztHFiR8PB7DLpKvNozPcv0rqTRtysTmCLjIXv03HY-2_A1E32Svl3obZuR0EYvGLKd1Ylr1Dckxor_q-lQyFCtxfmt9JR0NS0bYeC8YVzPqbJOsC.js, line 1165: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733714248197	Marionette	INFO	Stopped listening on port 50288
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
