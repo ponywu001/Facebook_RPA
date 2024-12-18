@@ -1,0 +1,110 @@
+2024-12-18 10:12:39 [INFO] 請選擇您要使用的 Excel 檔案...
+2024-12-18 10:12:42 [INFO] 選擇的 Excel 檔案路徑：C:/Users/user/Desktop/SuChenAI/Factbook-RPA-clickurl/data/fb_account_data_test.xlsx
+2024-12-18 10:12:42 [INFO] 請輸入最大多開數量 (1-10，預設為 1):
+2024-12-18 10:12:45 [INFO] 最大多開數量已設定為：1
+2024-12-18 10:12:45 [INFO] 螢幕寬度：2560，螢幕高度：1440，縮放比例：1.5
+2024-12-18 10:12:45 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:12:45 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:12:45 [INFO] 發現以下錯誤，請修正後再重新執行：
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 2 列的必要欄位 'proxy_password' 為空，請檢查資料完整性。
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 2 列的第 1 組的 按讚操作 'NAN' 無效，僅允許 'TRUE' 或 'FALSE'。
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 2 列的第 1 組的 留言操作 'NAN' 無效，僅允許 'TRUE' 或 'FALSE'。
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 2 列的第 1 組的 分享操作 'NAN' 無效，僅允許 'TRUE' 或 'FALSE'。
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 2 列的第 1 組的留言時間不能為空，請填寫正確的時間。
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 2 列的第 1 組中留言網址為空。
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 3 列的必要欄位 'proxy_password' 為空，請檢查資料完整性。
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 3 列的第 1 組的 按讚操作 'NAN' 無效，僅允許 'TRUE' 或 'FALSE'。
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 3 列的第 1 組的 留言操作 'NAN' 無效，僅允許 'TRUE' 或 'FALSE'。
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 3 列的第 1 組的 分享操作 'NAN' 無效，僅允許 'TRUE' 或 'FALSE'。
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 3 列的第 1 組的留言時間不能為空，請填寫正確的時間。
+2024-12-18 10:12:45 [INFO] [留言] 錯誤：第 3 列的第 1 組中留言網址為空。
+2024-12-18 10:12:45 [ERROR] Traceback (most recent call last):
+2024-12-18 10:12:45 [ERROR] File "c:\Users\user\Desktop\SuChenAI\Factbook-RPA-clickurl\main.py", line 6, in <module>
+2024-12-18 10:12:45 [ERROR] facebook_controller()
+2024-12-18 10:12:45 [ERROR] File "c:\Users\user\Desktop\SuChenAI\Factbook-RPA-clickurl\scripts\facebook_controller.py", line 203, in facebook_controller
+2024-12-18 10:12:45 [ERROR] post_accounts, comment_accounts, crawl_accounts, click_accounts, navigate_accounts = data_loader.load_account_data()  # 加載帳號資料
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] File "c:\Users\user\Desktop\SuChenAI\Factbook-RPA-clickurl\modules\data_loader.py", line 89, in load_account_data
+2024-12-18 10:12:45 [ERROR] raise Exception("資料格式錯誤，程序已停止執行。")  # 拋出錯誤
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] ^
+2024-12-18 10:12:45 [ERROR] Exception
+2024-12-18 10:12:45 [ERROR] :
+2024-12-18 10:12:45 [ERROR] 資料格式錯誤，程序已停止執行。

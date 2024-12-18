@@ -1,0 +1,22 @@
+2024-12-17 18:21:29 [INFO] 請選擇您要使用的 Excel 檔案...
+2024-12-17 18:21:32 [INFO] 選擇的 Excel 檔案路徑：C:/Users/user/Desktop/SuChenAI/Factbook-RPA-clickurl/data/fb_account_data_test.xlsx
+2024-12-17 18:21:32 [INFO] 請輸入最大多開數量 (1-10，預設為 1):
+2024-12-17 18:21:34 [INFO] 最大多開數量已設定為：1
+2024-12-17 18:21:34 [INFO] 螢幕寬度：2560，螢幕高度：1440，縮放比例：1.5
+2024-12-17 18:21:34 [INFO] clicks : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'action': True}]
+2024-12-17 18:21:34 [INFO] clicks : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'action': True}]
+2024-12-17 18:21:34 [INFO] 開始處理留言帳號...
+2024-12-17 18:21:34 [INFO] Worker 1: 開始處理帳號 66634899161
+2024-12-17 18:21:34 [INFO] 開始監控任務狀態...
+2024-12-17 18:21:41 [INFO] Worker 1: 代理 kamoney03.ddns.net:24004 設置成功
+2024-12-17 18:21:42 [INFO] Worker 1: Cookies 已加載成功: cookies\66634899161_cookies.json
+2024-12-17 18:21:45 [INFO] Worker 1: 帳號 66634899161 使用 cookies 成功登入
+2024-12-17 18:21:45 [INFO] Worker 1: 登錄成功，開始處理帳號 66634899161 的操作...
+2024-12-17 18:21:45 [INFO] Worker 1: 開始留言互動操作...
+2024-12-17 18:21:45 [INFO] Worker 1: 開始處理貼文 URL: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-17 18:21:48 [INFO] Worker 1: 貼文已按過讚，無需重複操作
+2024-12-17 18:21:48 [INFO] Worker 1: 成功點擊分享按鈕，發佈中......
+2024-12-17 18:21:51 [INFO] Worker 1: 分享過程中出現錯誤: Message: Failed to decode response from marionette
+2024-12-17 18:21:51 [INFO] Worker 1: 瀏覽器已關閉，任務已完成
+2024-12-17 18:22:09 [INFO] Worker 1: 分享過程中出現錯誤: HTTPConnectionPool(host='localhost', port=52954): Max retries exceeded with url: /session/e7000c1e-e6fa-439b-ae30-7aae6bbd0593/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6EB752420>: Failed to establish a new connection: [WinError 10061] 無法連線，因為目標電腦拒絕連線。'))
+2024-12-17 18:22:27 [INFO] Worker 1: 留言過程中出現錯誤: HTTPConnectionPool(host='localhost', port=52954): Max retries exceeded with url: /session/e7000c1e-e6fa-439b-ae30-7aae6bbd0593/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6EB77B650>: Failed to establish a new connection: [WinError 10061] 無法連線，因為目標電腦拒絕連線。'))

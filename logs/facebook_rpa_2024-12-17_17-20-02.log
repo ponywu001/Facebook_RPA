@@ -1,0 +1,6 @@
+2024-12-17 17:20:02 [INFO] 請選擇您要使用的 Excel 檔案...
+2024-12-17 17:20:06 [INFO] 選擇的 Excel 檔案路徑：C:/Users/user/Desktop/SuChenAI/Factbook-RPA-clickurl/data/fb_account_data.xlsx
+2024-12-17 17:20:06 [INFO] 請輸入最大多開數量 (1-10，預設為 1):
+2024-12-17 17:20:08 [INFO] 最大多開數量已設定為：10
+2024-12-17 17:20:08 [INFO] 螢幕寬度：2560，螢幕高度：1440，縮放比例：1.5
+2024-12-17 17:20:15 [INFO] 讀取文件失敗：[Errno 2] No such file or directory: 'fb_account_data.xlsx'

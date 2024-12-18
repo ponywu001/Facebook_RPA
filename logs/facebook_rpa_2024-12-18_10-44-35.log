@@ -1,0 +1,900 @@
+2024-12-18 10:44:36 [INFO] 請選擇您要使用的 Excel 檔案...
+2024-12-18 10:44:39 [INFO] 選擇的 Excel 檔案路徑：C:/Users/user/Desktop/SuChenAI/Factbook-RPA-clickurl/data/fb_account_data_test.xlsx
+2024-12-18 10:44:39 [INFO] 請輸入最大多開數量 (1-10，預設為 1):
+2024-12-18 10:44:42 [INFO] 最大多開數量已設定為：8
+2024-12-18 10:44:42 [INFO] 螢幕寬度：2560，螢幕高度：1440，縮放比例：1.5
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:44:42 [INFO] 開始處理跳轉帳號...
+2024-12-18 10:44:42 [INFO] Worker 1: 開始處理帳號 66634899161
+2024-12-18 10:44:42 [INFO] Worker 2: 開始處理帳號 66637943259
+2024-12-18 10:44:42 [INFO] Worker 3: 開始處理帳號 66634899161
+2024-12-18 10:44:42 [INFO] Worker 4: 開始處理帳號 66637943259
+2024-12-18 10:44:42 [INFO] Worker 5: 開始處理帳號 66619622845
+2024-12-18 10:44:42 [INFO] Worker 6: 開始處理帳號 66935324825
+2024-12-18 10:44:42 [INFO] Worker 7: 開始處理帳號 66990183891
+2024-12-18 10:44:42 [INFO] Worker 8: 開始處理帳號 66823237283
+2024-12-18 10:44:42 [INFO] 開始監控任務狀態...
+2024-12-18 10:44:50 [INFO] Worker 3: 代理 kamoney03.ddns.net:24004.0 設置成功
+2024-12-18 10:44:51 [INFO] Worker 8: 代理 kamoney03.ddns.net:24008.0 設置成功
+2024-12-18 10:44:52 [INFO] Worker 4: 代理 kamoney03.ddns.net:24003.0 設置成功
+2024-12-18 10:44:53 [INFO] Worker 8: Cookies 文件 cookies\66823237283_cookies.json 不存在。
+2024-12-18 10:44:53 [INFO] Worker 3: Cookies 已加載成功: cookies\66634899161_cookies.json
+2024-12-18 10:44:53 [INFO] Worker 7: 代理 kamoney03.ddns.net:24001.0 設置成功
+2024-12-18 10:44:54 [INFO] Worker 4: Cookies 已加載成功: cookies\66637943259_cookies.json
+2024-12-18 10:44:55 [INFO] Worker 5: 代理 kamoney03.ddns.net:24005.0 設置成功
+2024-12-18 10:44:56 [INFO] Worker 7: Cookies 已加載成功: cookies\66990183891_cookies.json
+2024-12-18 10:44:56 [INFO] Worker 4: 帳號 66637943259 使用 cookies 成功登入
+2024-12-18 10:44:56 [INFO] Worker 4: 登錄成功，開始處理帳號 66637943259 的操作...
+2024-12-18 10:44:56 [INFO] Worker 4: 開始跳轉操作...
+2024-12-18 10:44:56 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:44:56 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:44:56 [INFO] Worker 4: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:44:56 [INFO] Worker 2: 代理 kamoney03.ddns.net:24003.0 設置成功
+2024-12-18 10:44:57 [INFO] Worker 1: 代理 kamoney03.ddns.net:24004.0 設置成功
+2024-12-18 10:44:58 [INFO] Worker 5: Cookies 已加載成功: cookies\66619622845_cookies.json
+2024-12-18 10:44:58 [INFO] Worker 3: 帳號 66634899161 使用 cookies 成功登入
+2024-12-18 10:44:58 [INFO] Worker 3: 登錄成功，開始處理帳號 66634899161 的操作...
+2024-12-18 10:44:58 [INFO] Worker 3: 開始跳轉操作...
+2024-12-18 10:44:58 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:44:58 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:44:58 [INFO] Worker 3: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:44:58 [INFO] Worker 2: Cookies 已加載成功: cookies\66637943259_cookies.json
+2024-12-18 10:44:58 [INFO] Worker 6: 代理 kamoney03.ddns.net:24006.0 設置成功
+2024-12-18 10:44:58 [INFO] Worker 4 隨機停留 6 秒
+2024-12-18 10:44:59 [INFO] Worker 7: 帳號 66990183891 使用 cookies 成功登入
+2024-12-18 10:44:59 [INFO] Worker 7: 登錄成功，開始處理帳號 66990183891 的操作...
+2024-12-18 10:44:59 [INFO] Worker 7: 開始跳轉操作...
+2024-12-18 10:44:59 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:44:59 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:44:59 [INFO] Worker 7: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:44:59 [INFO] Worker 1: Cookies 已加載成功: cookies\66634899161_cookies.json
+2024-12-18 10:45:00 [INFO] Worker 6: Cookies 已加載成功: cookies\66935324825_cookies.json
+2024-12-18 10:45:00 [INFO] Worker 2: 帳號 66637943259 使用 cookies 成功登入
+2024-12-18 10:45:00 [INFO] Worker 2: 登錄成功，開始處理帳號 66637943259 的操作...
+2024-12-18 10:45:00 [INFO] Worker 2: 開始跳轉操作...
+2024-12-18 10:45:00 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:45:00 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:45:00 [INFO] Worker 2: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:45:02 [INFO] Worker 1: 帳號 66634899161 使用 cookies 成功登入
+2024-12-18 10:45:02 [INFO] Worker 1: 登錄成功，開始處理帳號 66634899161 的操作...
+2024-12-18 10:45:02 [INFO] Worker 1: 開始跳轉操作...
+2024-12-18 10:45:02 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:45:02 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:45:02 [INFO] Worker 1: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:45:02 [INFO] Worker 5: 帳號 66619622845 使用 cookies 成功登入
+2024-12-18 10:45:02 [INFO] Worker 5: 登錄成功，開始處理帳號 66619622845 的操作...
+2024-12-18 10:45:02 [INFO] Worker 5: 開始跳轉操作...
+2024-12-18 10:45:02 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:45:02 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:45:02 [INFO] Worker 5: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:45:04 [INFO] Worker 2 隨機停留 8 秒
+2024-12-18 10:45:05 [INFO] Worker 8: 點擊登錄按鈕成功
+2024-12-18 10:45:06 [INFO] Worker 8: 檢測到 2FA 驗證，開始 2FA 驗證流程
+2024-12-18 10:45:06 [INFO] Worker 8: 點擊「嘗試其他方式」
+2024-12-18 10:45:07 [INFO] Worker 6: 帳號 66935324825 使用 cookies 成功登入
+2024-12-18 10:45:07 [INFO] Worker 6: 登錄成功，開始處理帳號 66935324825 的操作...
+2024-12-18 10:45:07 [INFO] Worker 6: 開始跳轉操作...
+2024-12-18 10:45:07 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:45:07 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:45:07 [INFO] Worker 6: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:45:07 [INFO] Worker 5 隨機停留 7 秒
+2024-12-18 10:45:07 [INFO] Worker 7 隨機停留 8 秒
+2024-12-18 10:45:09 [INFO] Worker 1 隨機停留 7 秒
+2024-12-18 10:45:10 [INFO] Worker 8: 點擊「繼續」
+2024-12-18 10:45:12 [INFO] Worker 6 隨機停留 7 秒
+2024-12-18 10:45:12 [INFO] Worker 3 隨機停留 7 秒
+2024-12-18 10:45:12 [INFO] Worker 2: 成功按讚
+2024-12-18 10:45:12 [INFO] Worker 2 按讚後隨機停留 4 秒
+2024-12-18 10:45:13 [INFO] Worker 8: 2FA 驗證碼已輸入並提交
+2024-12-18 10:45:15 [INFO] Worker 5: 成功按讚
+2024-12-18 10:45:15 [INFO] Worker 5 按讚後隨機停留 3 秒
+2024-12-18 10:45:16 [INFO] Worker 7: 成功按讚
+2024-12-18 10:45:16 [INFO] Worker 7 按讚後隨機停留 4 秒
+2024-12-18 10:45:16 [INFO] Worker 1: 成功按讚
+2024-12-18 10:45:16 [INFO] Worker 1 按讚後隨機停留 4 秒
+2024-12-18 10:45:19 [INFO] Worker 4: 成功按讚
+2024-12-18 10:45:19 [INFO] Worker 4 按讚後隨機停留 3 秒
+2024-12-18 10:45:19 [INFO] Worker 6: 成功按讚
+2024-12-18 10:45:19 [INFO] Worker 6 按讚後隨機停留 4 秒
+2024-12-18 10:45:20 [INFO] Worker 3: 成功按讚
+2024-12-18 10:45:20 [INFO] Worker 3 按讚後隨機停留 3 秒
+2024-12-18 10:45:22 [INFO] Worker 5 隨機停留時間: 162 秒
+2024-12-18 10:45:22 [INFO] Worker 5: 向下滑動: 333 像素
+2024-12-18 10:45:22 [INFO] Worker 2 隨機停留時間: 161 秒
+2024-12-18 10:45:22 [INFO] Worker 2: 向下滑動: 241 像素
+2024-12-18 10:45:26 [INFO] Worker 5: 向下滑動: 304 像素
+2024-12-18 10:45:26 [INFO] Worker 7 隨機停留時間: 196 秒
+2024-12-18 10:45:26 [INFO] Worker 7: 向下滑動: 319 像素
+2024-12-18 10:45:26 [INFO] Worker 1 隨機停留時間: 170 秒
+2024-12-18 10:45:26 [INFO] Worker 1: 向下滑動: 373 像素
+2024-12-18 10:45:27 [INFO] Worker 2: 向下滑動: 347 像素
+2024-12-18 10:45:28 [INFO] Worker 4 隨機停留時間: 152 秒
+2024-12-18 10:45:28 [INFO] Worker 4: 向下滑動: 348 像素
+2024-12-18 10:45:29 [INFO] Worker 6 隨機停留時間: 148 秒
+2024-12-18 10:45:29 [INFO] Worker 6: 向下滑動: 252 像素
+2024-12-18 10:45:30 [INFO] Worker 5: 向下滑動: 391 像素
+2024-12-18 10:45:30 [INFO] Worker 1: 向下滑動: 323 像素
+2024-12-18 10:45:31 [INFO] Worker 7: 向下滑動: 285 像素
+2024-12-18 10:45:31 [INFO] Worker 2: 向下滑動: 336 像素
+2024-12-18 10:45:32 [INFO] Worker 8: 2FA 驗證成功
+2024-12-18 10:45:32 [INFO] Worker 8: Cookies 已保存到 cookies\66823237283_cookies.json
+2024-12-18 10:45:32 [INFO] Worker 8: 帳號 66823237283 登錄成功並保存了新的 cookies
+2024-12-18 10:45:32 [INFO] Worker 8: 登錄成功，開始處理帳號 66823237283 的操作...
+2024-12-18 10:45:32 [INFO] Worker 8: 開始跳轉操作...
+2024-12-18 10:45:32 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:45:32 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:45:32 [INFO] Worker 8: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:45:32 [INFO] Worker 3 隨機停留時間: 184 秒
+2024-12-18 10:45:32 [INFO] Worker 3: 向下滑動: 362 像素
+2024-12-18 10:45:33 [INFO] Worker 4: 向下滑動: 226 像素
+2024-12-18 10:45:33 [INFO] Worker 5: 向下滑動: 344 像素
+2024-12-18 10:45:34 [INFO] Worker 6: 向下滑動: 326 像素
+2024-12-18 10:45:34 [INFO] Worker 7: 向下滑動: 246 像素
+2024-12-18 10:45:34 [INFO] Worker 1: 向下滑動: 270 像素
+2024-12-18 10:45:35 [INFO] Worker 2: 向下滑動: 356 像素
+2024-12-18 10:45:35 [INFO] Worker 8 隨機停留 6 秒
+2024-12-18 10:45:35 [INFO] Worker 3: 向下滑動: 331 像素
+2024-12-18 10:45:37 [INFO] Worker 5: 向下滑動: 219 像素
+2024-12-18 10:45:37 [INFO] Worker 4: 向下滑動: 395 像素
+2024-12-18 10:45:37 [INFO] Worker 6: 向下滑動: 260 像素
+2024-12-18 10:45:39 [INFO] Worker 7: 向下滑動: 381 像素
+2024-12-18 10:45:39 [INFO] Worker 2: 向下滑動: 384 像素
+2024-12-18 10:45:39 [INFO] Worker 1: 向下滑動: 252 像素
+2024-12-18 10:45:40 [INFO] Worker 4: 向下滑動: 272 像素
+2024-12-18 10:45:40 [INFO] Worker 5: 向下滑動: 378 像素
+2024-12-18 10:45:40 [INFO] Worker 3: 向下滑動: 210 像素
+2024-12-18 10:45:41 [INFO] Worker 8: 成功按讚
+2024-12-18 10:45:41 [INFO] Worker 8 按讚後隨機停留 5 秒
+2024-12-18 10:45:42 [INFO] Worker 6: 向下滑動: 222 像素
+2024-12-18 10:45:42 [INFO] Worker 2: 向下滑動: 305 像素
+2024-12-18 10:45:43 [INFO] Worker 1: 向下滑動: 207 像素
+2024-12-18 10:45:43 [INFO] Worker 3: 向下滑動: 355 像素
+2024-12-18 10:45:43 [INFO] Worker 5: 向下滑動: 400 像素
+2024-12-18 10:45:44 [INFO] Worker 7: 向下滑動: 337 像素
+2024-12-18 10:45:44 [INFO] Worker 4: 向下滑動: 241 像素
+2024-12-18 10:45:46 [INFO] Worker 1: 向下滑動: 245 像素
+2024-12-18 10:45:46 [INFO] Worker 2: 向下滑動: 399 像素
+2024-12-18 10:45:46 [INFO] Worker 6: 向下滑動: 218 像素
+2024-12-18 10:45:47 [INFO] Worker 3: 向下滑動: 396 像素
+2024-12-18 10:45:47 [INFO] Worker 7: 向下滑動: 255 像素
+2024-12-18 10:45:48 [INFO] Worker 5: 向下滑動: 361 像素
+2024-12-18 10:45:49 [INFO] Worker 4: 向下滑動: 269 像素
+2024-12-18 10:45:49 [INFO] Worker 1: 向下滑動: 297 像素
+2024-12-18 10:45:50 [INFO] Worker 6: 向下滑動: 236 像素
+2024-12-18 10:45:50 [INFO] Worker 2: 向下滑動: 387 像素
+2024-12-18 10:45:50 [INFO] Worker 8 隨機停留時間: 173 秒
+2024-12-18 10:45:50 [INFO] Worker 8: 向下滑動: 345 像素
+2024-12-18 10:45:51 [INFO] Worker 5: 向下滑動: 289 像素
+2024-12-18 10:45:51 [INFO] Worker 3: 向下滑動: 339 像素
+2024-12-18 10:45:51 [INFO] Worker 7: 向下滑動: 299 像素
+2024-12-18 10:45:52 [INFO] Worker 4: 向下滑動: 278 像素
+2024-12-18 10:45:53 [INFO] Worker 1: 向下滑動: 360 像素
+2024-12-18 10:45:54 [INFO] Worker 2: 向下滑動: 220 像素
+2024-12-18 10:45:54 [INFO] Worker 6: 向下滑動: 304 像素
+2024-12-18 10:45:54 [INFO] Worker 8: 向下滑動: 254 像素
+2024-12-18 10:45:55 [INFO] Worker 5: 向下滑動: 302 像素
+2024-12-18 10:45:55 [INFO] Worker 7: 向下滑動: 372 像素
+2024-12-18 10:45:56 [INFO] Worker 3: 向下滑動: 265 像素
+2024-12-18 10:45:57 [INFO] Worker 1: 向下滑動: 254 像素
+2024-12-18 10:45:57 [INFO] Worker 4: 向下滑動: 315 像素
+2024-12-18 10:45:57 [INFO] Worker 6: 向下滑動: 312 像素
+2024-12-18 10:45:57 [INFO] Worker 2: 向下滑動: 346 像素
+2024-12-18 10:45:59 [INFO] Worker 8: 向下滑動: 314 像素
+2024-12-18 10:45:59 [INFO] Worker 7: 向下滑動: 282 像素
+2024-12-18 10:45:59 [INFO] Worker 5: 向下滑動: 329 像素
+2024-12-18 10:46:00 [INFO] Worker 3: 向下滑動: 394 像素
+2024-12-18 10:46:00 [INFO] Worker 1: 向下滑動: 222 像素
+2024-12-18 10:46:01 [INFO] Worker 6: 向下滑動: 334 像素
+2024-12-18 10:46:01 [INFO] Worker 2: 向下滑動: 307 像素
+2024-12-18 10:46:02 [INFO] Worker 4: 向下滑動: 385 像素
+2024-12-18 10:46:02 [INFO] Worker 8: 向下滑動: 305 像素
+2024-12-18 10:46:03 [INFO] Worker 7: 向下滑動: 376 像素
+2024-12-18 10:46:03 [INFO] Worker 5: 向下滑動: 272 像素
+2024-12-18 10:46:04 [INFO] Worker 3: 向下滑動: 366 像素
+2024-12-18 10:46:04 [INFO] Worker 6: 向下滑動: 208 像素
+2024-12-18 10:46:05 [INFO] Worker 4: 向下滑動: 229 像素
+2024-12-18 10:46:05 [INFO] Worker 2: 向下滑動: 398 像素
+2024-12-18 10:46:05 [INFO] Worker 1: 向下滑動: 263 像素
+2024-12-18 10:46:06 [INFO] Worker 7: 向下滑動: 314 像素
+2024-12-18 10:46:06 [INFO] Worker 8: 向下滑動: 373 像素
+2024-12-18 10:46:07 [INFO] Worker 5: 向下滑動: 327 像素
+2024-12-18 10:46:08 [INFO] Worker 6: 向下滑動: 322 像素
+2024-12-18 10:46:08 [INFO] Worker 1: 向下滑動: 213 像素
+2024-12-18 10:46:08 [INFO] Worker 3: 向下滑動: 332 像素
+2024-12-18 10:46:09 [INFO] Worker 2: 向下滑動: 389 像素
+2024-12-18 10:46:09 [INFO] Worker 4: 向下滑動: 244 像素
+2024-12-18 10:46:10 [INFO] Worker 7: 向下滑動: 396 像素
+2024-12-18 10:46:10 [INFO] Worker 8: 向下滑動: 397 像素
+2024-12-18 10:46:10 [INFO] Worker 5: 向下滑動: 255 像素
+2024-12-18 10:46:12 [INFO] Worker 6: 向下滑動: 205 像素
+2024-12-18 10:46:13 [INFO] Worker 3: 向下滑動: 230 像素
+2024-12-18 10:46:13 [INFO] Worker 2: 向下滑動: 380 像素
+2024-12-18 10:46:13 [INFO] Worker 1: 向下滑動: 282 像素
+2024-12-18 10:46:13 [INFO] Worker 5: 向下滑動: 255 像素
+2024-12-18 10:46:14 [INFO] Worker 8: 向下滑動: 276 像素
+2024-12-18 10:46:14 [INFO] Worker 4: 向下滑動: 394 像素
+2024-12-18 10:46:15 [INFO] Worker 7: 向下滑動: 384 像素
+2024-12-18 10:46:15 [INFO] Worker 6: 向下滑動: 271 像素
+2024-12-18 10:46:17 [INFO] Worker 3: 向下滑動: 319 像素
+2024-12-18 10:46:17 [INFO] Worker 2: 向下滑動: 206 像素
+2024-12-18 10:46:17 [INFO] Worker 8: 向下滑動: 227 像素
+2024-12-18 10:46:18 [INFO] Worker 1: 向下滑動: 202 像素
+2024-12-18 10:46:18 [INFO] Worker 4: 向下滑動: 243 像素
+2024-12-18 10:46:18 [INFO] Worker 5: 向下滑動: 380 像素
+2024-12-18 10:46:19 [INFO] Worker 7: 向下滑動: 289 像素
+2024-12-18 10:46:19 [INFO] Worker 6: 向下滑動: 265 像素
+2024-12-18 10:46:20 [INFO] Worker 3: 向下滑動: 383 像素
+2024-12-18 10:46:20 [INFO] Worker 8: 向下滑動: 276 像素
+2024-12-18 10:46:21 [INFO] Worker 2: 向下滑動: 297 像素
+2024-12-18 10:46:22 [INFO] Worker 1: 向下滑動: 226 像素
+2024-12-18 10:46:22 [INFO] Worker 7: 向下滑動: 307 像素
+2024-12-18 10:46:22 [INFO] Worker 4: 向下滑動: 221 像素
+2024-12-18 10:46:23 [INFO] Worker 5: 向下滑動: 400 像素
+2024-12-18 10:46:24 [INFO] Worker 8: 向下滑動: 361 像素
+2024-12-18 10:46:24 [INFO] Worker 6: 向下滑動: 326 像素
+2024-12-18 10:46:25 [INFO] Worker 3: 向下滑動: 383 像素
+2024-12-18 10:46:26 [INFO] Worker 4: 向下滑動: 246 像素
+2024-12-18 10:46:26 [INFO] Worker 1: 向下滑動: 295 像素
+2024-12-18 10:46:26 [INFO] Worker 2: 向下滑動: 337 像素
+2024-12-18 10:46:27 [INFO] Worker 7: 向下滑動: 203 像素
+2024-12-18 10:46:27 [INFO] Worker 8: 向下滑動: 398 像素
+2024-12-18 10:46:28 [INFO] Worker 5: 向下滑動: 258 像素
+2024-12-18 10:46:29 [INFO] Worker 6: 向下滑動: 250 像素
+2024-12-18 10:46:29 [INFO] Worker 4: 向下滑動: 208 像素
+2024-12-18 10:46:29 [INFO] Worker 3: 向下滑動: 283 像素
+2024-12-18 10:46:31 [INFO] Worker 1: 向下滑動: 332 像素
+2024-12-18 10:46:31 [INFO] Worker 2: 向下滑動: 343 像素
+2024-12-18 10:46:31 [INFO] Worker 7: 向下滑動: 266 像素
+2024-12-18 10:46:31 [INFO] Worker 5: 向下滑動: 351 像素
+2024-12-18 10:46:32 [INFO] Worker 8: 向下滑動: 315 像素
+2024-12-18 10:46:32 [INFO] Worker 6: 向下滑動: 337 像素
+2024-12-18 10:46:33 [INFO] Worker 3: 向下滑動: 320 像素
+2024-12-18 10:46:33 [INFO] Worker 4: 向下滑動: 379 像素
+2024-12-18 10:46:34 [INFO] Worker 1: 向下滑動: 315 像素
+2024-12-18 10:46:34 [INFO] Worker 5: 向下滑動: 324 像素
+2024-12-18 10:46:34 [INFO] Worker 2: 向下滑動: 272 像素
+2024-12-18 10:46:35 [INFO] Worker 7: 向下滑動: 230 像素
+2024-12-18 10:46:35 [INFO] Worker 8: 向下滑動: 332 像素
+2024-12-18 10:46:36 [INFO] Worker 6: 向下滑動: 225 像素
+2024-12-18 10:46:37 [INFO] Worker 1: 向下滑動: 338 像素
+2024-12-18 10:46:37 [INFO] Worker 3: 向下滑動: 216 像素
+2024-12-18 10:46:37 [INFO] Worker 5: 向下滑動: 230 像素
+2024-12-18 10:46:38 [INFO] Worker 4: 向下滑動: 203 像素
+2024-12-18 10:46:39 [INFO] Worker 2: 向下滑動: 399 像素
+2024-12-18 10:46:39 [INFO] Worker 8: 向下滑動: 310 像素
+2024-12-18 10:46:39 [INFO] Worker 7: 向下滑動: 315 像素
+2024-12-18 10:46:40 [INFO] Worker 6: 向下滑動: 262 像素
+2024-12-18 10:46:41 [INFO] Worker 4: 向下滑動: 304 像素
+2024-12-18 10:46:41 [INFO] Worker 5: 向下滑動: 201 像素
+2024-12-18 10:46:41 [INFO] Worker 3: 向下滑動: 228 像素
+2024-12-18 10:46:42 [INFO] Worker 2: 向下滑動: 381 像素
+2024-12-18 10:46:42 [INFO] Worker 1: 向下滑動: 361 像素
+2024-12-18 10:46:43 [INFO] Worker 7: 向下滑動: 400 像素
+2024-12-18 10:46:43 [INFO] Worker 8: 向下滑動: 287 像素
+2024-12-18 10:46:44 [INFO] Worker 6: 向下滑動: 390 像素
+2024-12-18 10:46:45 [INFO] Worker 4: 向下滑動: 225 像素
+2024-12-18 10:46:45 [INFO] Worker 5: 向下滑動: 364 像素
+2024-12-18 10:46:46 [INFO] Worker 3: 向下滑動: 330 像素
+2024-12-18 10:46:46 [INFO] Worker 2: 向下滑動: 221 像素
+2024-12-18 10:46:47 [INFO] Worker 1: 向下滑動: 393 像素
+2024-12-18 10:46:48 [INFO] Worker 6: 向下滑動: 358 像素
+2024-12-18 10:46:48 [INFO] Worker 7: 向下滑動: 348 像素
+2024-12-18 10:46:48 [INFO] Worker 8: 向下滑動: 200 像素
+2024-12-18 10:46:48 [INFO] Worker 5: 向下滑動: 339 像素
+2024-12-18 10:46:49 [INFO] Worker 3: 向下滑動: 319 像素
+2024-12-18 10:46:49 [INFO] Worker 4: 向下滑動: 229 像素
+2024-12-18 10:46:51 [INFO] Worker 2: 向下滑動: 232 像素
+2024-12-18 10:46:51 [INFO] Worker 1: 向下滑動: 256 像素
+2024-12-18 10:46:52 [INFO] Worker 6: 向下滑動: 329 像素
+2024-12-18 10:46:52 [INFO] Worker 8: 向下滑動: 340 像素
+2024-12-18 10:46:52 [INFO] Worker 7: 向下滑動: 286 像素
+2024-12-18 10:46:53 [INFO] Worker 3: 向下滑動: 367 像素
+2024-12-18 10:46:53 [INFO] Worker 4: 向下滑動: 385 像素
+2024-12-18 10:46:53 [INFO] Worker 5: 向下滑動: 366 像素
+2024-12-18 10:46:55 [INFO] Worker 1: 向下滑動: 355 像素
+2024-12-18 10:46:55 [INFO] Worker 2: 向下滑動: 216 像素
+2024-12-18 10:46:56 [INFO] Worker 8: 向下滑動: 381 像素
+2024-12-18 10:46:57 [INFO] Worker 5: 向下滑動: 386 像素
+2024-12-18 10:46:57 [INFO] Worker 6: 向下滑動: 255 像素
+2024-12-18 10:46:57 [INFO] Worker 3: 向下滑動: 288 像素
+2024-12-18 10:46:57 [INFO] Worker 7: 向下滑動: 356 像素
+2024-12-18 10:46:57 [INFO] Worker 4: 向下滑動: 278 像素
+2024-12-18 10:46:59 [INFO] Worker 2: 向下滑動: 238 像素
+2024-12-18 10:46:59 [INFO] Worker 1: 向下滑動: 366 像素
+2024-12-18 10:47:00 [INFO] Worker 5: 向下滑動: 268 像素
+2024-12-18 10:47:01 [INFO] Worker 8: 向下滑動: 385 像素
+2024-12-18 10:47:01 [INFO] Worker 6: 向下滑動: 296 像素
+2024-12-18 10:47:02 [INFO] Worker 7: 向下滑動: 370 像素
+2024-12-18 10:47:02 [INFO] Worker 3: 向下滑動: 307 像素
+2024-12-18 10:47:02 [INFO] Worker 4: 向下滑動: 378 像素
+2024-12-18 10:47:03 [INFO] Worker 2: 向下滑動: 369 像素
+2024-12-18 10:47:04 [INFO] Worker 1: 向下滑動: 230 像素
+2024-12-18 10:47:04 [INFO] Worker 5: 向下滑動: 251 像素
+2024-12-18 10:47:05 [INFO] Worker 8: 向下滑動: 382 像素
+2024-12-18 10:47:05 [INFO] Worker 6: 向下滑動: 368 像素
+2024-12-18 10:47:05 [INFO] Worker 7: 向下滑動: 231 像素
+2024-12-18 10:47:06 [INFO] Worker 4: 向下滑動: 226 像素
+2024-12-18 10:47:06 [INFO] Worker 3: 向下滑動: 340 像素
+2024-12-18 10:47:07 [INFO] Worker 2: 向下滑動: 251 像素
+2024-12-18 10:47:08 [INFO] Worker 1: 向下滑動: 268 像素
+2024-12-18 10:47:08 [INFO] Worker 5: 向下滑動: 332 像素
+2024-12-18 10:47:09 [INFO] Worker 8: 向下滑動: 258 像素
+2024-12-18 10:47:09 [INFO] Worker 7: 向下滑動: 313 像素
+2024-12-18 10:47:09 [INFO] Worker 6: 向下滑動: 244 像素
+2024-12-18 10:47:09 [INFO] Worker 3: 向下滑動: 267 像素
+2024-12-18 10:47:10 [INFO] Worker 4: 向下滑動: 328 像素
+2024-12-18 10:47:11 [INFO] Worker 2: 向下滑動: 344 像素
+2024-12-18 10:47:12 [INFO] Worker 8: 向下滑動: 353 像素
+2024-12-18 10:47:12 [INFO] Worker 1: 向下滑動: 252 像素
+2024-12-18 10:47:13 [INFO] Worker 5: 向下滑動: 373 像素
+2024-12-18 10:47:13 [INFO] Worker 4: 向下滑動: 339 像素
+2024-12-18 10:47:13 [INFO] Worker 7: 向下滑動: 264 像素
+2024-12-18 10:47:14 [INFO] Worker 3: 向下滑動: 396 像素
+2024-12-18 10:47:14 [INFO] Worker 6: 向下滑動: 211 像素
+2024-12-18 10:47:16 [INFO] Worker 8: 向下滑動: 283 像素
+2024-12-18 10:47:16 [INFO] Worker 2: 向下滑動: 270 像素
+2024-12-18 10:47:16 [INFO] Worker 5: 向下滑動: 341 像素
+2024-12-18 10:47:17 [INFO] Worker 3: 向下滑動: 240 像素
+2024-12-18 10:47:17 [INFO] Worker 1: 向下滑動: 275 像素
+2024-12-18 10:47:17 [INFO] Worker 4: 向下滑動: 249 像素
+2024-12-18 10:47:18 [INFO] Worker 7: 向下滑動: 256 像素
+2024-12-18 10:47:18 [INFO] Worker 6: 向下滑動: 357 像素
+2024-12-18 10:47:19 [INFO] Worker 8: 向下滑動: 382 像素
+2024-12-18 10:47:20 [INFO] Worker 2: 向下滑動: 274 像素
+2024-12-18 10:47:21 [INFO] Worker 5: 向下滑動: 335 像素
+2024-12-18 10:47:22 [INFO] Worker 3: 向下滑動: 390 像素
+2024-12-18 10:47:22 [INFO] Worker 4: 向下滑動: 276 像素
+2024-12-18 10:47:22 [INFO] Worker 1: 向下滑動: 378 像素
+2024-12-18 10:47:23 [INFO] Worker 7: 向下滑動: 370 像素
+2024-12-18 10:47:23 [INFO] Worker 6: 向下滑動: 241 像素
+2024-12-18 10:47:23 [INFO] Worker 8: 向下滑動: 207 像素
+2024-12-18 10:47:24 [INFO] Worker 5: 向下滑動: 232 像素
+2024-12-18 10:47:25 [INFO] Worker 2: 向下滑動: 262 像素
+2024-12-18 10:47:26 [INFO] Worker 4: 向下滑動: 355 像素
+2024-12-18 10:47:26 [INFO] Worker 3: 向下滑動: 333 像素
+2024-12-18 10:47:26 [INFO] Worker 6: 向下滑動: 255 像素
+2024-12-18 10:47:27 [INFO] Worker 1: 向下滑動: 276 像素
+2024-12-18 10:47:27 [INFO] Worker 8: 向下滑動: 392 像素
+2024-12-18 10:47:27 [INFO] Worker 5: 向下滑動: 206 像素
+2024-12-18 10:47:28 [INFO] Worker 7: 向下滑動: 339 像素
+2024-12-18 10:47:28 [INFO] Worker 2: 向下滑動: 322 像素
+2024-12-18 10:47:30 [INFO] Worker 3: 向下滑動: 233 像素
+2024-12-18 10:47:30 [INFO] Worker 1: 向下滑動: 312 像素
+2024-12-18 10:47:30 [INFO] Worker 4: 向下滑動: 272 像素
+2024-12-18 10:47:30 [INFO] Worker 8: 向下滑動: 250 像素
+2024-12-18 10:47:31 [INFO] Worker 6: 向下滑動: 336 像素
+2024-12-18 10:47:31 [INFO] Worker 7: 向下滑動: 258 像素
+2024-12-18 10:47:32 [INFO] Worker 5: 向下滑動: 202 像素
+2024-12-18 10:47:33 [INFO] Worker 2: 向下滑動: 347 像素
+2024-12-18 10:47:34 [INFO] Worker 8: 向下滑動: 289 像素
+2024-12-18 10:47:34 [INFO] Worker 1: 向下滑動: 397 像素
+2024-12-18 10:47:34 [INFO] Worker 4: 向下滑動: 270 像素
+2024-12-18 10:47:34 [INFO] Worker 3: 向下滑動: 249 像素
+2024-12-18 10:47:36 [INFO] Worker 6: 向下滑動: 214 像素
+2024-12-18 10:47:36 [INFO] Worker 7: 向下滑動: 205 像素
+2024-12-18 10:47:37 [INFO] Worker 2: 向下滑動: 399 像素
+2024-12-18 10:47:37 [INFO] Worker 5: 向下滑動: 280 像素
+2024-12-18 10:47:38 [INFO] Worker 4: 向下滑動: 366 像素
+2024-12-18 10:47:38 [INFO] Worker 3: 向下滑動: 326 像素
+2024-12-18 10:47:38 [INFO] Worker 8: 向下滑動: 203 像素
+2024-12-18 10:47:39 [INFO] Worker 1: 向下滑動: 266 像素
+2024-12-18 10:47:40 [INFO] Worker 7: 向下滑動: 383 像素
+2024-12-18 10:47:40 [INFO] Worker 6: 向下滑動: 248 像素
+2024-12-18 10:47:42 [INFO] Worker 2: 向下滑動: 335 像素
+2024-12-18 10:47:42 [INFO] Worker 5: 向下滑動: 334 像素
+2024-12-18 10:47:42 [INFO] Worker 1: 向下滑動: 347 像素
+2024-12-18 10:47:43 [INFO] Worker 4: 向下滑動: 289 像素
+2024-12-18 10:47:43 [INFO] Worker 3: 向下滑動: 363 像素
+2024-12-18 10:47:43 [INFO] Worker 7: 向下滑動: 248 像素
+2024-12-18 10:47:43 [INFO] Worker 8: 向下滑動: 374 像素
+2024-12-18 10:47:44 [INFO] Worker 6: 向下滑動: 269 像素
+2024-12-18 10:47:45 [INFO] Worker 2: 向下滑動: 386 像素
+2024-12-18 10:47:46 [INFO] Worker 1: 向下滑動: 281 像素
+2024-12-18 10:47:46 [INFO] Worker 5: 向下滑動: 353 像素
+2024-12-18 10:47:46 [INFO] Worker 8: 向下滑動: 269 像素
+2024-12-18 10:47:46 [INFO] Worker 4: 向下滑動: 259 像素
+2024-12-18 10:47:46 [INFO] Worker 3: 向下滑動: 386 像素
+2024-12-18 10:47:48 [INFO] Worker 7: 向下滑動: 327 像素
+2024-12-18 10:47:48 [INFO] Worker 6: 向下滑動: 316 像素
+2024-12-18 10:47:49 [INFO] Worker 2: 向下滑動: 355 像素
+2024-12-18 10:47:50 [INFO] Worker 5: 向下滑動: 270 像素
+2024-12-18 10:47:50 [INFO] Worker 1: 向下滑動: 305 像素
+2024-12-18 10:47:50 [INFO] Worker 4: 向下滑動: 360 像素
+2024-12-18 10:47:51 [INFO] Worker 3: 向下滑動: 324 像素
+2024-12-18 10:47:51 [INFO] Worker 8: 向下滑動: 309 像素
+2024-12-18 10:47:51 [INFO] Worker 6: 向下滑動: 212 像素
+2024-12-18 10:47:51 [INFO] Worker 7: 向下滑動: 305 像素
+2024-12-18 10:47:54 [INFO] Worker 2: 向下滑動: 268 像素
+2024-12-18 10:47:54 [INFO] Worker 1: 向下滑動: 333 像素
+2024-12-18 10:47:54 [INFO] Worker 4: 向下滑動: 377 像素
+2024-12-18 10:47:54 [INFO] Worker 6: 向下滑動: 210 像素
+2024-12-18 10:47:54 [INFO] Worker 5: 向下滑動: 329 像素
+2024-12-18 10:47:55 [INFO] Worker 3: 向下滑動: 207 像素
+2024-12-18 10:47:55 [INFO] Worker 7: 向下滑動: 366 像素
+2024-12-18 10:47:56 [INFO] Worker 8: 向下滑動: 278 像素
+2024-12-18 10:47:57 [INFO] Worker 2: 向下滑動: 281 像素
+2024-12-18 10:47:57 [INFO] Worker 1: 向下滑動: 337 像素
+2024-12-18 10:47:58 [INFO] Worker 5: 向下滑動: 291 像素
+2024-12-18 10:47:58 [INFO] Worker 4: 向下滑動: 360 像素
+2024-12-18 10:47:58 [INFO] Worker 3: 向下滑動: 301 像素
+2024-12-18 10:47:59 [INFO] Worker 7: 向下滑動: 204 像素
+2024-12-18 10:48:00 [INFO] Worker 8: 向下滑動: 300 像素
+2024-12-18 10:48:01 [INFO] Worker 5: 向下滑動: 390 像素
+2024-12-18 10:48:01 [INFO] Worker 2: 向下滑動: 307 像素
+2024-12-18 10:48:01 [INFO] Worker 1: 向下滑動: 287 像素
+2024-12-18 10:48:02 [INFO] Worker 6: 帳號 66935324825 的任務已結束
+2024-12-18 10:48:02 [INFO] Worker 9: 開始處理帳號 66991704166
+2024-12-18 10:48:03 [INFO] Worker 3: 向下滑動: 368 像素
+2024-12-18 10:48:03 [INFO] Worker 7: 向下滑動: 306 像素
+2024-12-18 10:48:05 [INFO] Worker 4: 瀏覽器已關閉，任務已完成
+2024-12-18 10:48:05 [INFO] Worker 4: 帳號 66637943259 的任務已結束
+2024-12-18 10:48:05 [INFO] Worker 10: 開始處理帳號 66646155782
+2024-12-18 10:48:05 [INFO] Worker 8: 向下滑動: 318 像素
+2024-12-18 10:48:05 [INFO] Worker 1: 向下滑動: 210 像素
+2024-12-18 10:48:06 [INFO] Worker 3: 向下滑動: 310 像素
+2024-12-18 10:48:07 [INFO] Worker 7: 向下滑動: 320 像素
+2024-12-18 10:48:07 [INFO] Worker 5: 帳號 66619622845 的任務已結束
+2024-12-18 10:48:07 [INFO] Worker 11: 開始處理帳號 447388000000
+2024-12-18 10:48:08 [INFO] Worker 2: 帳號 66637943259 的任務已結束
+2024-12-18 10:48:08 [INFO] Worker 12: 開始處理帳號 66643407753
+2024-12-18 10:48:09 [INFO] Worker 8: 向下滑動: 370 像素
+2024-12-18 10:48:09 [INFO] Worker 1: 向下滑動: 352 像素
+2024-12-18 10:48:09 [INFO] Worker 9: 代理 kamoney03.ddns.net:24009.0 設置成功
+2024-12-18 10:48:10 [INFO] Worker 7: 向下滑動: 329 像素
+2024-12-18 10:48:11 [INFO] Worker 9: Cookies 已加載成功: cookies\66991704166_cookies.json
+2024-12-18 10:48:11 [INFO] Worker 3: 向下滑動: 215 像素
+2024-12-18 10:48:12 [INFO] Worker 8: 向下滑動: 398 像素
+2024-12-18 10:48:13 [INFO] Worker 1: 向下滑動: 210 像素
+2024-12-18 10:48:13 [INFO] Worker 10: 代理 kamoney03.ddns.net:24010.0 設置成功
+2024-12-18 10:48:14 [INFO] Worker 7: 向下滑動: 282 像素
+2024-12-18 10:48:15 [INFO] Worker 10: Cookies 已加載成功: cookies\66646155782_cookies.json
+2024-12-18 10:48:15 [INFO] Worker 3: 向下滑動: 201 像素
+2024-12-18 10:48:16 [INFO] Worker 9: 帳號 66991704166 使用 cookies 成功登入
+2024-12-18 10:48:16 [INFO] Worker 9: 登錄成功，開始處理帳號 66991704166 的操作...
+2024-12-18 10:48:16 [INFO] Worker 9: 開始跳轉操作...
+2024-12-18 10:48:16 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:16 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:48:16 [INFO] Worker 9: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:16 [INFO] Worker 8: 向下滑動: 383 像素
+2024-12-18 10:48:17 [INFO] Worker 7: 向下滑動: 282 像素
+2024-12-18 10:48:18 [INFO] Worker 11: 代理 kamoney03.ddns.net:24001.0 設置成功
+2024-12-18 10:48:18 [INFO] Worker 10: 帳號 66646155782 使用 cookies 成功登入
+2024-12-18 10:48:18 [INFO] Worker 10: 登錄成功，開始處理帳號 66646155782 的操作...
+2024-12-18 10:48:18 [INFO] Worker 10: 開始跳轉操作...
+2024-12-18 10:48:18 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:18 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:48:18 [INFO] Worker 10: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:19 [INFO] Worker 3: 向下滑動: 363 像素
+2024-12-18 10:48:20 [INFO] Worker 12: 代理 kamoney03.ddns.net:24006.80556 設置成功
+2024-12-18 10:48:20 [INFO] Worker 8: 向下滑動: 264 像素
+2024-12-18 10:48:20 [INFO] Worker 9 隨機停留 6 秒
+2024-12-18 10:48:20 [INFO] Worker 11: Cookies 文件 cookies\447388000000_cookies.json 不存在。
+2024-12-18 10:48:21 [INFO] Worker 1: 帳號 66634899161 的任務已結束
+2024-12-18 10:48:21 [INFO] Worker 13: 開始處理帳號 66954958462
+2024-12-18 10:48:21 [INFO] Worker 12: Cookies 已加載成功: cookies\66643407753_cookies.json
+2024-12-18 10:48:22 [INFO] Worker 10 隨機停留 6 秒
+2024-12-18 10:48:22 [INFO] Worker 3: 向下滑動: 264 像素
+2024-12-18 10:48:22 [INFO] Worker 7: 向下滑動: 322 像素
+2024-12-18 10:48:25 [INFO] Worker 8: 向下滑動: 364 像素
+2024-12-18 10:48:25 [INFO] Worker 12: 帳號 66643407753 使用 cookies 成功登入
+2024-12-18 10:48:25 [INFO] Worker 12: 登錄成功，開始處理帳號 66643407753 的操作...
+2024-12-18 10:48:25 [INFO] Worker 12: 開始跳轉操作...
+2024-12-18 10:48:25 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:25 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:48:25 [INFO] Worker 12: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:26 [INFO] Worker 7: 向下滑動: 359 像素
+2024-12-18 10:48:26 [INFO] Worker 3: 向下滑動: 372 像素
+2024-12-18 10:48:27 [INFO] Worker 9: 成功按讚
+2024-12-18 10:48:27 [INFO] Worker 9 按讚後隨機停留 5 秒
+2024-12-18 10:48:28 [INFO] Worker 12 隨機停留 8 秒
+2024-12-18 10:48:28 [INFO] Worker 10: 成功按讚
+2024-12-18 10:48:28 [INFO] Worker 10 按讚後隨機停留 5 秒
+2024-12-18 10:48:28 [INFO] Worker 8: 向下滑動: 226 像素
+2024-12-18 10:48:30 [INFO] Worker 3: 向下滑動: 259 像素
+2024-12-18 10:48:30 [INFO] Worker 7: 向下滑動: 256 像素
+2024-12-18 10:48:31 [INFO] Worker 13: 代理 kamoney03.ddns.net:24007.12222 設置成功
+2024-12-18 10:48:32 [INFO] Worker 11: 點擊登錄按鈕成功
+2024-12-18 10:48:32 [INFO] Worker 8: 向下滑動: 369 像素
+2024-12-18 10:48:32 [INFO] Worker 13: Cookies 已加載成功: cookies\66954958462_cookies.json
+2024-12-18 10:48:33 [INFO] Worker 3: 向下滑動: 222 像素
+2024-12-18 10:48:35 [INFO] Worker 7: 向下滑動: 339 像素
+2024-12-18 10:48:36 [INFO] Worker 8: 向下滑動: 253 像素
+2024-12-18 10:48:36 [INFO] Worker 12: 成功按讚
+2024-12-18 10:48:36 [INFO] Worker 12 按讚後隨機停留 5 秒
+2024-12-18 10:48:37 [INFO] Worker 13: 帳號 66954958462 使用 cookies 成功登入
+2024-12-18 10:48:37 [INFO] Worker 13: 登錄成功，開始處理帳號 66954958462 的操作...
+2024-12-18 10:48:37 [INFO] Worker 13: 開始跳轉操作...
+2024-12-18 10:48:37 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:37 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:48:37 [INFO] Worker 13: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:37 [INFO] Worker 9 隨機停留時間: 182 秒
+2024-12-18 10:48:37 [INFO] Worker 9: 向下滑動: 261 像素
+2024-12-18 10:48:39 [INFO] Worker 7: 向下滑動: 360 像素
+2024-12-18 10:48:39 [INFO] Worker 10 隨機停留時間: 190 秒
+2024-12-18 10:48:39 [INFO] Worker 10: 向下滑動: 285 像素
+2024-12-18 10:48:39 [INFO] Worker 13 隨機停留 6 秒
+2024-12-18 10:48:40 [INFO] Worker 8: 向下滑動: 351 像素
+2024-12-18 10:48:41 [INFO] Worker 3: 帳號 66634899161 的任務已結束
+2024-12-18 10:48:41 [INFO] Worker 14: 開始處理帳號 66804035563
+2024-12-18 10:48:42 [INFO] Worker 9: 向下滑動: 375 像素
+2024-12-18 10:48:43 [INFO] Worker 10: 向下滑動: 330 像素
+2024-12-18 10:48:43 [INFO] Worker 8: 向下滑動: 280 像素
+2024-12-18 10:48:44 [INFO] Worker 11: 重試等待元素失敗，超出最大次數
+2024-12-18 10:48:45 [INFO] Worker 12 隨機停留時間: 170 秒
+2024-12-18 10:48:45 [INFO] Worker 9: 向下滑動: 253 像素
+2024-12-18 10:48:45 [INFO] Worker 12: 向下滑動: 228 像素
+2024-12-18 10:48:45 [INFO] Worker 13: 成功按讚
+2024-12-18 10:48:45 [INFO] Worker 13 按讚後隨機停留 3 秒
+2024-12-18 10:48:46 [INFO] Worker 7: 帳號 66990183891 的任務已結束
+2024-12-18 10:48:46 [INFO] Worker 15: 開始處理帳號 66823121944
+2024-12-18 10:48:48 [INFO] Worker 10: 向下滑動: 205 像素
+2024-12-18 10:48:48 [INFO] Worker 9: 向下滑動: 278 像素
+2024-12-18 10:48:48 [INFO] Worker 12: 向下滑動: 366 像素
+2024-12-18 10:48:49 [INFO] Worker 14: 代理 kamoney03.ddns.net:24007.43889 設置成功
+2024-12-18 10:48:49 [INFO] Worker 8: 帳號 66823237283 的任務已結束
+2024-12-18 10:48:49 [INFO] Worker 16: 開始處理帳號 66814785452
+2024-12-18 10:48:50 [INFO] Worker 14: Cookies 已加載成功: cookies\66804035563_cookies.json
+2024-12-18 10:48:52 [INFO] Worker 10: 向下滑動: 258 像素
+2024-12-18 10:48:52 [INFO] Worker 12: 向下滑動: 399 像素
+2024-12-18 10:48:53 [INFO] Worker 14: 帳號 66804035563 使用 cookies 成功登入
+2024-12-18 10:48:53 [INFO] Worker 14: 登錄成功，開始處理帳號 66804035563 的操作...
+2024-12-18 10:48:53 [INFO] Worker 14: 開始跳轉操作...
+2024-12-18 10:48:53 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:53 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:48:53 [INFO] Worker 14: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:53 [INFO] Worker 13 隨機停留時間: 151 秒
+2024-12-18 10:48:53 [INFO] Worker 13: 向下滑動: 315 像素
+2024-12-18 10:48:53 [INFO] Worker 9: 向下滑動: 360 像素
+2024-12-18 10:48:54 [INFO] Worker 15: 代理 kamoney03.ddns.net:24007.75556 設置成功
+2024-12-18 10:48:55 [INFO] Worker 15: Cookies 已加載成功: cookies\66823121944_cookies.json
+2024-12-18 10:48:56 [INFO] Worker 14 隨機停留 8 秒
+2024-12-18 10:48:56 [INFO] Worker 12: 向下滑動: 216 像素
+2024-12-18 10:48:56 [INFO] Worker 11: 重試等待元素失敗，超出最大次數
+2024-12-18 10:48:56 [INFO] Worker 11: 登入失敗，無法找到登入後的確認元素
+2024-12-18 10:48:56 [INFO] Worker 11: 登錄失敗，跳過發文操作
+2024-12-18 10:48:56 [INFO] Worker 10: 向下滑動: 233 像素
+2024-12-18 10:48:56 [INFO] Worker 9: 向下滑動: 338 像素
+2024-12-18 10:48:58 [INFO] Worker 13: 向下滑動: 267 像素
+2024-12-18 10:48:58 [INFO] Worker 16: 代理 kamoney03.ddns.net:24008.07222 設置成功
+2024-12-18 10:48:59 [INFO] Worker 15: 帳號 66823121944 使用 cookies 成功登入
+2024-12-18 10:48:59 [INFO] Worker 15: 登錄成功，開始處理帳號 66823121944 的操作...
+2024-12-18 10:48:59 [INFO] Worker 15: 開始跳轉操作...
+2024-12-18 10:48:59 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:59 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:48:59 [INFO] Worker 15: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:48:59 [INFO] Worker 11: 帳號 447388000000 的任務已結束
+2024-12-18 10:49:00 [INFO] Worker 16: Cookies 已加載成功: cookies\66814785452_cookies.json
+2024-12-18 10:49:00 [INFO] Worker 10: 向下滑動: 265 像素
+2024-12-18 10:49:01 [INFO] Worker 12: 向下滑動: 204 像素
+2024-12-18 10:49:01 [INFO] Worker 9: 向下滑動: 244 像素
+2024-12-18 10:49:02 [INFO] Worker 13: 向下滑動: 226 像素
+2024-12-18 10:49:03 [INFO] Worker 16: 帳號 66814785452 使用 cookies 成功登入
+2024-12-18 10:49:03 [INFO] Worker 16: 登錄成功，開始處理帳號 66814785452 的操作...
+2024-12-18 10:49:03 [INFO] Worker 16: 開始跳轉操作...
+2024-12-18 10:49:03 [INFO] url : https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:49:03 [INFO] out_url : https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb
+2024-12-18 10:49:03 [INFO] Worker 16: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:49:03 [INFO] Worker 15 隨機停留 7 秒
+2024-12-18 10:49:04 [INFO] Worker 14: 成功按讚
+2024-12-18 10:49:04 [INFO] Worker 14 按讚後隨機停留 5 秒
+2024-12-18 10:49:04 [INFO] Worker 10: 向下滑動: 390 像素
+2024-12-18 10:49:05 [INFO] Worker 12: 向下滑動: 396 像素
+2024-12-18 10:49:05 [INFO] Worker 13: 向下滑動: 228 像素
+2024-12-18 10:49:06 [INFO] Worker 9: 向下滑動: 247 像素
+2024-12-18 10:49:06 [INFO] Worker 16 隨機停留 8 秒
+2024-12-18 10:49:09 [INFO] Worker 10: 向下滑動: 328 像素
+2024-12-18 10:49:09 [INFO] Worker 12: 向下滑動: 204 像素
+2024-12-18 10:49:09 [INFO] Worker 9: 向下滑動: 258 像素
+2024-12-18 10:49:09 [INFO] Worker 13: 向下滑動: 285 像素
+2024-12-18 10:49:11 [INFO] Worker 15: 成功按讚
+2024-12-18 10:49:11 [INFO] Worker 15 按讚後隨機停留 5 秒
+2024-12-18 10:49:13 [INFO] Worker 10: 向下滑動: 283 像素
+2024-12-18 10:49:13 [INFO] Worker 14 隨機停留時間: 199 秒
+2024-12-18 10:49:13 [INFO] Worker 14: 向下滑動: 301 像素
+2024-12-18 10:49:13 [INFO] Worker 12: 向下滑動: 222 像素
+2024-12-18 10:49:14 [INFO] Worker 9: 向下滑動: 335 像素
+2024-12-18 10:49:14 [INFO] Worker 16: 成功按讚
+2024-12-18 10:49:14 [INFO] Worker 16 按讚後隨機停留 5 秒
+2024-12-18 10:49:14 [INFO] Worker 13: 向下滑動: 263 像素
+2024-12-18 10:49:16 [INFO] Worker 10: 向下滑動: 342 像素
+2024-12-18 10:49:17 [INFO] Worker 14: 向下滑動: 380 像素
+2024-12-18 10:49:18 [INFO] Worker 9: 向下滑動: 345 像素
+2024-12-18 10:49:18 [INFO] Worker 12: 向下滑動: 381 像素
+2024-12-18 10:49:19 [INFO] Worker 13: 向下滑動: 284 像素
+2024-12-18 10:49:19 [INFO] Worker 10: 向下滑動: 366 像素
+2024-12-18 10:49:21 [INFO] Worker 15 隨機停留時間: 200 秒
+2024-12-18 10:49:21 [INFO] Worker 15: 向下滑動: 203 像素
+2024-12-18 10:49:21 [INFO] Worker 14: 向下滑動: 343 像素
+2024-12-18 10:49:22 [INFO] Worker 12: 向下滑動: 358 像素
+2024-12-18 10:49:22 [INFO] Worker 9: 向下滑動: 247 像素
+2024-12-18 10:49:22 [INFO] Worker 13: 向下滑動: 237 像素
+2024-12-18 10:49:23 [INFO] Worker 10: 向下滑動: 365 像素
+2024-12-18 10:49:24 [INFO] Worker 16 隨機停留時間: 154 秒
+2024-12-18 10:49:24 [INFO] Worker 16: 向下滑動: 393 像素
+2024-12-18 10:49:25 [INFO] Worker 15: 向下滑動: 297 像素
+2024-12-18 10:49:25 [INFO] Worker 12: 向下滑動: 393 像素
+2024-12-18 10:49:25 [INFO] Worker 14: 向下滑動: 253 像素
+2024-12-18 10:49:26 [INFO] Worker 13: 向下滑動: 378 像素
+2024-12-18 10:49:26 [INFO] Worker 9: 向下滑動: 331 像素
+2024-12-18 10:49:26 [INFO] Worker 10: 向下滑動: 379 像素
+2024-12-18 10:49:28 [INFO] Worker 15: 向下滑動: 203 像素
+2024-12-18 10:49:28 [INFO] Worker 16: 向下滑動: 397 像素
+2024-12-18 10:49:29 [INFO] Worker 12: 向下滑動: 319 像素
+2024-12-18 10:49:30 [INFO] Worker 14: 向下滑動: 303 像素
+2024-12-18 10:49:31 [INFO] Worker 13: 向下滑動: 355 像素
+2024-12-18 10:49:31 [INFO] Worker 9: 向下滑動: 225 像素
+2024-12-18 10:49:31 [INFO] Worker 10: 向下滑動: 259 像素
+2024-12-18 10:49:33 [INFO] Worker 15: 向下滑動: 287 像素
+2024-12-18 10:49:33 [INFO] Worker 16: 向下滑動: 347 像素
+2024-12-18 10:49:33 [INFO] Worker 12: 向下滑動: 242 像素
+2024-12-18 10:49:34 [INFO] Worker 10: 向下滑動: 266 像素
+2024-12-18 10:49:34 [INFO] Worker 13: 向下滑動: 208 像素
+2024-12-18 10:49:35 [INFO] Worker 14: 向下滑動: 225 像素
+2024-12-18 10:49:35 [INFO] Worker 9: 向下滑動: 394 像素
+2024-12-18 10:49:37 [INFO] Worker 15: 向下滑動: 305 像素
+2024-12-18 10:49:37 [INFO] Worker 12: 向下滑動: 324 像素
+2024-12-18 10:49:38 [INFO] Worker 16: 向下滑動: 337 像素
+2024-12-18 10:49:38 [INFO] Worker 9: 向下滑動: 206 像素
+2024-12-18 10:49:38 [INFO] Worker 13: 向下滑動: 252 像素
+2024-12-18 10:49:39 [INFO] Worker 10: 向下滑動: 297 像素
+2024-12-18 10:49:39 [INFO] Worker 14: 向下滑動: 226 像素
+2024-12-18 10:49:41 [INFO] Worker 15: 向下滑動: 269 像素
+2024-12-18 10:49:41 [INFO] Worker 12: 向下滑動: 238 像素
+2024-12-18 10:49:41 [INFO] Worker 9: 向下滑動: 326 像素
+2024-12-18 10:49:42 [INFO] Worker 16: 向下滑動: 275 像素
+2024-12-18 10:49:43 [INFO] Worker 13: 向下滑動: 222 像素
+2024-12-18 10:49:43 [INFO] Worker 14: 向下滑動: 237 像素
+2024-12-18 10:49:44 [INFO] Worker 10: 向下滑動: 262 像素
+2024-12-18 10:49:45 [INFO] Worker 12: 向下滑動: 329 像素
+2024-12-18 10:49:45 [INFO] Worker 15: 向下滑動: 273 像素
+2024-12-18 10:49:46 [INFO] Worker 16: 向下滑動: 228 像素
+2024-12-18 10:49:46 [INFO] Worker 9: 向下滑動: 330 像素
+2024-12-18 10:49:47 [INFO] Worker 14: 向下滑動: 240 像素
+2024-12-18 10:49:47 [INFO] Worker 13: 向下滑動: 356 像素
+2024-12-18 10:49:48 [INFO] Worker 10: 向下滑動: 358 像素
+2024-12-18 10:49:49 [INFO] Worker 15: 向下滑動: 332 像素
+2024-12-18 10:49:49 [INFO] Worker 9: 向下滑動: 216 像素
+2024-12-18 10:49:50 [INFO] Worker 12: 向下滑動: 254 像素
+2024-12-18 10:49:50 [INFO] Worker 16: 向下滑動: 380 像素
+2024-12-18 10:49:50 [INFO] Worker 14: 向下滑動: 336 像素
+2024-12-18 10:49:51 [INFO] Worker 13: 向下滑動: 352 像素
+2024-12-18 10:49:53 [INFO] Worker 10: 向下滑動: 302 像素
+2024-12-18 10:49:53 [INFO] Worker 9: 向下滑動: 227 像素
+2024-12-18 10:49:54 [INFO] Worker 16: 向下滑動: 241 像素
+2024-12-18 10:49:54 [INFO] Worker 15: 向下滑動: 207 像素
+2024-12-18 10:49:54 [INFO] Worker 13: 向下滑動: 285 像素
+2024-12-18 10:49:55 [INFO] Worker 12: 向下滑動: 216 像素
+2024-12-18 10:49:55 [INFO] Worker 14: 向下滑動: 370 像素
+2024-12-18 10:49:57 [INFO] Worker 10: 向下滑動: 325 像素
+2024-12-18 10:49:57 [INFO] Worker 16: 向下滑動: 221 像素
+2024-12-18 10:49:57 [INFO] Worker 9: 向下滑動: 383 像素
+2024-12-18 10:49:58 [INFO] Worker 15: 向下滑動: 298 像素
+2024-12-18 10:49:58 [INFO] Worker 12: 向下滑動: 334 像素
+2024-12-18 10:49:58 [INFO] Worker 14: 向下滑動: 304 像素
+2024-12-18 10:49:59 [INFO] Worker 13: 向下滑動: 295 像素
+2024-12-18 10:50:01 [INFO] Worker 15: 向下滑動: 338 像素
+2024-12-18 10:50:01 [INFO] Worker 10: 向下滑動: 337 像素
+2024-12-18 10:50:01 [INFO] Worker 12: 向下滑動: 334 像素
+2024-12-18 10:50:02 [INFO] Worker 16: 向下滑動: 398 像素
+2024-12-18 10:50:02 [INFO] Worker 9: 向下滑動: 257 像素
+2024-12-18 10:50:03 [INFO] Worker 13: 向下滑動: 359 像素
+2024-12-18 10:50:05 [INFO] Worker 14: 向下滑動: 225 像素
+2024-12-18 10:50:05 [INFO] Worker 15: 向下滑動: 379 像素
+2024-12-18 10:50:06 [INFO] Worker 12: 向下滑動: 280 像素
+2024-12-18 10:50:06 [INFO] Worker 16: 向下滑動: 205 像素
+2024-12-18 10:50:06 [INFO] Worker 10: 向下滑動: 210 像素
+2024-12-18 10:50:07 [INFO] Worker 9: 向下滑動: 369 像素
+2024-12-18 10:50:08 [INFO] Worker 13: 向下滑動: 337 像素
+2024-12-18 10:50:09 [INFO] Worker 12: 向下滑動: 222 像素
+2024-12-18 10:50:09 [INFO] Worker 10: 向下滑動: 236 像素
+2024-12-18 10:50:10 [INFO] Worker 15: 向下滑動: 225 像素
+2024-12-18 10:50:10 [INFO] Worker 14: 向下滑動: 372 像素
+2024-12-18 10:50:10 [INFO] Worker 16: 向下滑動: 310 像素
+2024-12-18 10:50:12 [INFO] Worker 9: 向下滑動: 208 像素
+2024-12-18 10:50:12 [INFO] Worker 12: 向下滑動: 357 像素
+2024-12-18 10:50:13 [INFO] Worker 13: 向下滑動: 203 像素
+2024-12-18 10:50:13 [INFO] Worker 10: 向下滑動: 360 像素
+2024-12-18 10:50:14 [INFO] Worker 15: 向下滑動: 385 像素
+2024-12-18 10:50:14 [INFO] Worker 14: 向下滑動: 343 像素
+2024-12-18 10:50:14 [INFO] Worker 16: 向下滑動: 329 像素
+2024-12-18 10:50:16 [INFO] Worker 10: 向下滑動: 231 像素
+2024-12-18 10:50:16 [INFO] Worker 9: 向下滑動: 200 像素
+2024-12-18 10:50:17 [INFO] Worker 12: 向下滑動: 268 像素
+2024-12-18 10:50:18 [INFO] Worker 15: 向下滑動: 310 像素
+2024-12-18 10:50:18 [INFO] Worker 13: 向下滑動: 377 像素
+2024-12-18 10:50:18 [INFO] Worker 16: 向下滑動: 272 像素
+2024-12-18 10:50:19 [INFO] Worker 10: 向下滑動: 389 像素
+2024-12-18 10:50:19 [INFO] Worker 14: 向下滑動: 253 像素
+2024-12-18 10:50:20 [INFO] Worker 12: 向下滑動: 380 像素
+2024-12-18 10:50:20 [INFO] Worker 9: 向下滑動: 208 像素
+2024-12-18 10:50:22 [INFO] Worker 13: 向下滑動: 208 像素
+2024-12-18 10:50:22 [INFO] Worker 15: 向下滑動: 216 像素
+2024-12-18 10:50:23 [INFO] Worker 16: 向下滑動: 288 像素
+2024-12-18 10:50:23 [INFO] Worker 14: 向下滑動: 252 像素
+2024-12-18 10:50:23 [INFO] Worker 12: 向下滑動: 237 像素
+2024-12-18 10:50:24 [INFO] Worker 10: 向下滑動: 261 像素
+2024-12-18 10:50:24 [INFO] Worker 9: 向下滑動: 399 像素
+2024-12-18 10:50:26 [INFO] Worker 13: 向下滑動: 384 像素
+2024-12-18 10:50:26 [INFO] Worker 14: 向下滑動: 309 像素
+2024-12-18 10:50:26 [INFO] Worker 12: 向下滑動: 220 像素
+2024-12-18 10:50:27 [INFO] Worker 15: 向下滑動: 357 像素
+2024-12-18 10:50:27 [INFO] Worker 16: 向下滑動: 307 像素
+2024-12-18 10:50:29 [INFO] Worker 10: 向下滑動: 307 像素
+2024-12-18 10:50:29 [INFO] Worker 9: 向下滑動: 313 像素
+2024-12-18 10:50:30 [INFO] Worker 13: 向下滑動: 273 像素
+2024-12-18 10:50:30 [INFO] Worker 14: 向下滑動: 373 像素
+2024-12-18 10:50:31 [INFO] Worker 12: 向下滑動: 240 像素
+2024-12-18 10:50:32 [INFO] Worker 15: 向下滑動: 287 像素
+2024-12-18 10:50:32 [INFO] Worker 16: 向下滑動: 308 像素
+2024-12-18 10:50:34 [INFO] Worker 10: 向下滑動: 202 像素
+2024-12-18 10:50:34 [INFO] Worker 9: 向下滑動: 344 像素
+2024-12-18 10:50:34 [INFO] Worker 13: 向下滑動: 353 像素
+2024-12-18 10:50:35 [INFO] Worker 14: 向下滑動: 209 像素
+2024-12-18 10:50:35 [INFO] Worker 15: 向下滑動: 210 像素
+2024-12-18 10:50:36 [INFO] Worker 12: 向下滑動: 342 像素
+2024-12-18 10:50:37 [INFO] Worker 16: 向下滑動: 326 像素
+2024-12-18 10:50:37 [INFO] Worker 13: 向下滑動: 225 像素
+2024-12-18 10:50:38 [INFO] Worker 9: 向下滑動: 325 像素
+2024-12-18 10:50:38 [INFO] Worker 10: 向下滑動: 234 像素
+2024-12-18 10:50:39 [INFO] Worker 12: 向下滑動: 311 像素
+2024-12-18 10:50:39 [INFO] Worker 14: 向下滑動: 364 像素
+2024-12-18 10:50:39 [INFO] Worker 15: 向下滑動: 333 像素
+2024-12-18 10:50:40 [INFO] Worker 16: 向下滑動: 204 像素
+2024-12-18 10:50:40 [INFO] Worker 13: 向下滑動: 271 像素
+2024-12-18 10:50:42 [INFO] Worker 10: 向下滑動: 293 像素
+2024-12-18 10:50:42 [INFO] Worker 9: 向下滑動: 335 像素
+2024-12-18 10:50:42 [INFO] Worker 12: 向下滑動: 290 像素
+2024-12-18 10:50:42 [INFO] Worker 14: 向下滑動: 267 像素
+2024-12-18 10:50:43 [INFO] Worker 15: 向下滑動: 373 像素
+2024-12-18 10:50:43 [INFO] Worker 16: 向下滑動: 255 像素
+2024-12-18 10:50:45 [INFO] Worker 13: 向下滑動: 349 像素
+2024-12-18 10:50:45 [INFO] Worker 14: 向下滑動: 377 像素
+2024-12-18 10:50:46 [INFO] Worker 12: 向下滑動: 229 像素
+2024-12-18 10:50:46 [INFO] Worker 10: 向下滑動: 320 像素
+2024-12-18 10:50:47 [INFO] Worker 9: 向下滑動: 368 像素
+2024-12-18 10:50:47 [INFO] Worker 15: 向下滑動: 303 像素
+2024-12-18 10:50:47 [INFO] Worker 16: 向下滑動: 218 像素
+2024-12-18 10:50:49 [INFO] Worker 10: 向下滑動: 281 像素
+2024-12-18 10:50:49 [INFO] Worker 13: 向下滑動: 342 像素
+2024-12-18 10:50:50 [INFO] Worker 12: 向下滑動: 218 像素
+2024-12-18 10:50:50 [INFO] Worker 9: 向下滑動: 241 像素
+2024-12-18 10:50:50 [INFO] Worker 14: 向下滑動: 270 像素
+2024-12-18 10:50:50 [INFO] Worker 15: 向下滑動: 387 像素
+2024-12-18 10:50:51 [INFO] Worker 16: 向下滑動: 396 像素
+2024-12-18 10:50:52 [INFO] Worker 13: 向下滑動: 284 像素
+2024-12-18 10:50:53 [INFO] Worker 10: 向下滑動: 217 像素
+2024-12-18 10:50:54 [INFO] Worker 15: 向下滑動: 278 像素
+2024-12-18 10:50:54 [INFO] Worker 12: 向下滑動: 246 像素
+2024-12-18 10:50:54 [INFO] Worker 9: 向下滑動: 372 像素
+2024-12-18 10:50:55 [INFO] Worker 14: 向下滑動: 214 像素
+2024-12-18 10:50:56 [INFO] Worker 16: 向下滑動: 294 像素
+2024-12-18 10:50:57 [INFO] Worker 13: 向下滑動: 204 像素
+2024-12-18 10:50:57 [INFO] Worker 10: 向下滑動: 222 像素
+2024-12-18 10:50:58 [INFO] Worker 9: 向下滑動: 284 像素
+2024-12-18 10:50:58 [INFO] Worker 15: 向下滑動: 333 像素
+2024-12-18 10:50:59 [INFO] Worker 14: 向下滑動: 295 像素
+2024-12-18 10:50:59 [INFO] Worker 12: 向下滑動: 337 像素
+2024-12-18 10:51:00 [INFO] Worker 16: 向下滑動: 226 像素
+2024-12-18 10:51:00 [INFO] Worker 10: 向下滑動: 375 像素
+2024-12-18 10:51:01 [INFO] Worker 13: 向下滑動: 233 像素
+2024-12-18 10:51:02 [INFO] Worker 9: 向下滑動: 309 像素
+2024-12-18 10:51:02 [INFO] Worker 15: 向下滑動: 387 像素
+2024-12-18 10:51:03 [INFO] Worker 12: 向下滑動: 394 像素
+2024-12-18 10:51:03 [INFO] Worker 16: 向下滑動: 299 像素
+2024-12-18 10:51:03 [INFO] Worker 14: 向下滑動: 385 像素
+2024-12-18 10:51:04 [INFO] Worker 10: 向下滑動: 255 像素
+2024-12-18 10:51:05 [INFO] Worker 13: 向下滑動: 258 像素
+2024-12-18 10:51:06 [INFO] Worker 15: 向下滑動: 252 像素
+2024-12-18 10:51:06 [INFO] Worker 9: 向下滑動: 285 像素
+2024-12-18 10:51:06 [INFO] Worker 12: 向下滑動: 285 像素
+2024-12-18 10:51:06 [INFO] Worker 14: 向下滑動: 318 像素
+2024-12-18 10:51:07 [INFO] Worker 16: 向下滑動: 205 像素
+2024-12-18 10:51:07 [INFO] Worker 10: 向下滑動: 390 像素
+2024-12-18 10:51:09 [INFO] Worker 13: 向下滑動: 228 像素
+2024-12-18 10:51:10 [INFO] Worker 15: 向下滑動: 356 像素
+2024-12-18 10:51:10 [INFO] Worker 12: 向下滑動: 290 像素
+2024-12-18 10:51:10 [INFO] Worker 9: 向下滑動: 338 像素
+2024-12-18 10:51:11 [INFO] Worker 14: 向下滑動: 206 像素
+2024-12-18 10:51:11 [INFO] Worker 16: 向下滑動: 227 像素
+2024-12-18 10:51:12 [INFO] Worker 10: 向下滑動: 283 像素
+2024-12-18 10:51:14 [INFO] Worker 13: 向下滑動: 280 像素
+2024-12-18 10:51:14 [INFO] Worker 9: 向下滑動: 394 像素
+2024-12-18 10:51:14 [INFO] Worker 12: 向下滑動: 364 像素
+2024-12-18 10:51:14 [INFO] Worker 15: 向下滑動: 222 像素
+2024-12-18 10:51:14 [INFO] Worker 14: 向下滑動: 381 像素
+2024-12-18 10:51:15 [INFO] Worker 16: 向下滑動: 281 像素
+2024-12-18 10:51:16 [INFO] Worker 10: 向下滑動: 383 像素
+2024-12-18 10:51:17 [INFO] Worker 12: 向下滑動: 208 像素
+2024-12-18 10:51:17 [INFO] Worker 14: 向下滑動: 223 像素
+2024-12-18 10:51:18 [INFO] Worker 13: 向下滑動: 284 像素
+2024-12-18 10:51:18 [INFO] Worker 15: 向下滑動: 345 像素
+2024-12-18 10:51:18 [INFO] Worker 9: 向下滑動: 370 像素
+2024-12-18 10:51:19 [INFO] Worker 16: 向下滑動: 396 像素
+2024-12-18 10:51:21 [INFO] Worker 10: 向下滑動: 355 像素
+2024-12-18 10:51:21 [INFO] Worker 12: 向下滑動: 243 像素
+2024-12-18 10:51:22 [INFO] Worker 14: 向下滑動: 252 像素
+2024-12-18 10:51:22 [INFO] Worker 13: 向下滑動: 330 像素
+2024-12-18 10:51:22 [INFO] Worker 15: 向下滑動: 336 像素
+2024-12-18 10:51:23 [INFO] Worker 9: 向下滑動: 268 像素
+2024-12-18 10:51:23 [INFO] Worker 16: 向下滑動: 301 像素
+2024-12-18 10:51:24 [INFO] Worker 12: 向下滑動: 302 像素
+2024-12-18 10:51:25 [INFO] Worker 10: 向下滑動: 282 像素
+2024-12-18 10:51:25 [INFO] Worker 14: 向下滑動: 282 像素
+2024-12-18 10:51:26 [INFO] Worker 15: 向下滑動: 396 像素
+2024-12-18 10:51:26 [INFO] Worker 16: 向下滑動: 369 像素
+2024-12-18 10:51:28 [INFO] Worker 9: 向下滑動: 327 像素
+2024-12-18 10:51:28 [INFO] Worker 10: 向下滑動: 399 像素
+2024-12-18 10:51:28 [INFO] Worker 12: 向下滑動: 204 像素
+2024-12-18 10:51:28 [INFO] Worker 13: 帳號 66954958462 的任務已結束
+2024-12-18 10:51:29 [INFO] Worker 14: 向下滑動: 272 像素
+2024-12-18 10:51:30 [INFO] Worker 15: 向下滑動: 325 像素
+2024-12-18 10:51:31 [INFO] Worker 16: 向下滑動: 214 像素
+2024-12-18 10:51:32 [INFO] Worker 9: 向下滑動: 396 像素
+2024-12-18 10:51:32 [INFO] Worker 10: 向下滑動: 238 像素
+2024-12-18 10:51:33 [INFO] Worker 12: 向下滑動: 216 像素
+2024-12-18 10:51:33 [INFO] Worker 14: 向下滑動: 391 像素
+2024-12-18 10:51:34 [INFO] Worker 15: 向下滑動: 226 像素
+2024-12-18 10:51:35 [INFO] Worker 9: 向下滑動: 299 像素
+2024-12-18 10:51:35 [INFO] Worker 16: 向下滑動: 391 像素
+2024-12-18 10:51:36 [INFO] Worker 10: 向下滑動: 227 像素
+2024-12-18 10:51:37 [INFO] Worker 15: 向下滑動: 379 像素
+2024-12-18 10:51:38 [INFO] Worker 14: 向下滑動: 270 像素
+2024-12-18 10:51:39 [INFO] Worker 9: 向下滑動: 368 像素
+2024-12-18 10:51:40 [INFO] Worker 16: 向下滑動: 201 像素
+2024-12-18 10:51:40 [INFO] Worker 12: 帳號 66643407753 的任務已結束
+2024-12-18 10:51:41 [INFO] Worker 10: 向下滑動: 329 像素
+2024-12-18 10:51:41 [INFO] Worker 15: 向下滑動: 257 像素
+2024-12-18 10:51:43 [INFO] Worker 14: 向下滑動: 257 像素
+2024-12-18 10:51:44 [INFO] Worker 16: 向下滑動: 292 像素
+2024-12-18 10:51:44 [INFO] Worker 10: 向下滑動: 263 像素
+2024-12-18 10:51:44 [INFO] Worker 15: 向下滑動: 322 像素
+2024-12-18 10:51:45 [INFO] Worker 9: 帳號 66991704166 的任務已結束
+2024-12-18 10:51:47 [INFO] Worker 16: 向下滑動: 218 像素
+2024-12-18 10:51:47 [INFO] Worker 10: 向下滑動: 244 像素
+2024-12-18 10:51:48 [INFO] Worker 14: 向下滑動: 237 像素
+2024-12-18 10:51:49 [INFO] Worker 15: 向下滑動: 225 像素
+2024-12-18 10:51:51 [INFO] Worker 16: 向下滑動: 276 像素
+2024-12-18 10:51:51 [INFO] Worker 14: 向下滑動: 252 像素
+2024-12-18 10:51:54 [INFO] Worker 15: 向下滑動: 239 像素
+2024-12-18 10:51:54 [INFO] Worker 10: 帳號 66646155782 的任務已結束
+2024-12-18 10:51:55 [INFO] Worker 16: 向下滑動: 355 像素
+2024-12-18 10:51:55 [INFO] Worker 14: 向下滑動: 201 像素
+2024-12-18 10:51:57 [INFO] Worker 15: 向下滑動: 366 像素
+2024-12-18 10:51:59 [INFO] Worker 14: 向下滑動: 269 像素
+2024-12-18 10:52:01 [INFO] Worker 16: 帳號 66814785452 的任務已結束
+2024-12-18 10:52:01 [INFO] Worker 15: 向下滑動: 321 像素
+2024-12-18 10:52:02 [INFO] Worker 14: 向下滑動: 259 像素
+2024-12-18 10:52:05 [INFO] Worker 15: 向下滑動: 221 像素
+2024-12-18 10:52:07 [INFO] Worker 14: 向下滑動: 333 像素
+2024-12-18 10:52:09 [INFO] Worker 15: 向下滑動: 269 像素
+2024-12-18 10:52:11 [INFO] Worker 14: 向下滑動: 238 像素
+2024-12-18 10:52:13 [INFO] Worker 15: 向下滑動: 245 像素
+2024-12-18 10:52:16 [INFO] Worker 15: 向下滑動: 273 像素
+2024-12-18 10:52:16 [INFO] Worker 14: 向下滑動: 372 像素
+2024-12-18 10:52:19 [INFO] Worker 15: 向下滑動: 234 像素
+2024-12-18 10:52:20 [INFO] Worker 14: 向下滑動: 374 像素
+2024-12-18 10:52:23 [INFO] Worker 15: 向下滑動: 381 像素
+2024-12-18 10:52:25 [INFO] Worker 14: 向下滑動: 344 像素
+2024-12-18 10:52:28 [INFO] Worker 15: 向下滑動: 278 像素
+2024-12-18 10:52:28 [INFO] Worker 14: 向下滑動: 233 像素
+2024-12-18 10:52:31 [INFO] Worker 15: 向下滑動: 220 像素
+2024-12-18 10:52:35 [INFO] Worker 15: 向下滑動: 315 像素
+2024-12-18 10:52:36 [INFO] Worker 14: 瀏覽器已關閉，任務已完成
+2024-12-18 10:52:36 [INFO] Worker 14: 帳號 66804035563 的任務已結束
+2024-12-18 10:52:39 [INFO] Worker 15: 向下滑動: 340 像素
+2024-12-18 10:52:45 [INFO] Worker 15: 帳號 66823121944 的任務已結束

@@ -1,0 +1,175 @@
+2024-12-17 17:25:55 [INFO] 請選擇您要使用的 Excel 檔案...
+2024-12-17 17:25:58 [INFO] 選擇的 Excel 檔案路徑：C:/Users/user/Desktop/SuChenAI/Factbook-RPA-clickurl/data/fb_account_data.xlsx
+2024-12-17 17:25:58 [INFO] 請輸入最大多開數量 (1-10，預設為 1):
+2024-12-17 17:26:00 [INFO] 最大多開數量已設定為：10
+2024-12-17 17:26:00 [INFO] 螢幕寬度：2560，螢幕高度：1440，縮放比例：1.5
+2024-12-17 17:26:00 [INFO] 請輸入要設置為 true 的數量：
+2024-12-17 17:26:03 [INFO] 文件讀取成功！
+2024-12-17 17:26:03 [INFO] 操作完成，結果已保存至 C:\Users\user\Desktop\SuChenAI\Factbook-RPA-clickurl\data\fb_account_data.xlsx
+2024-12-17 17:26:03 [ERROR] Traceback (most recent call last):
+2024-12-17 17:26:03 [ERROR] File "c:\Users\user\Desktop\SuChenAI\Factbook-RPA-clickurl\main.py", line 6, in <module>
+2024-12-17 17:26:03 [ERROR] facebook_controller()
+2024-12-17 17:26:03 [ERROR] File "c:\Users\user\Desktop\SuChenAI\Factbook-RPA-clickurl\scripts\facebook_controller.py", line 187, in facebook_controller
+2024-12-17 17:26:03 [ERROR] post_accounts, comment_accounts, crawl_accounts, click_accounts = data_loader.load_account_data()  # 加載帳號資料
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] File "c:\Users\user\Desktop\SuChenAI\Factbook-RPA-clickurl\modules\data_loader.py", line 14, in load_account_data
+2024-12-17 17:26:03 [ERROR] sheets = pd.read_excel(self.excel_path, sheet_name=sheet_names)  # 讀取 Excel 文件中的指定 tab
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] File "C:\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 508, in read_excel
+2024-12-17 17:26:03 [ERROR] data = io.parse(
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] File "C:\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 1616, in parse
+2024-12-17 17:26:03 [ERROR] return self._reader.parse(
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] File "C:\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 773, in parse
+2024-12-17 17:26:03 [ERROR] sheet = self.get_sheet_by_name(asheetname)
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] ^
+2024-12-17 17:26:03 [ERROR] File "C:\Python312\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 582, in get_sheet_by_name
+2024-12-17 17:26:03 [ERROR] self.raise_if_bad_sheet_by_name(name)
+2024-12-17 17:26:03 [ERROR] File "C:\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 624, in raise_if_bad_sheet_by_name
+2024-12-17 17:26:03 [ERROR] raise ValueError(f"Worksheet named '{name}' not found")
+2024-12-17 17:26:03 [ERROR] ValueError
+2024-12-17 17:26:03 [ERROR] :
+2024-12-17 17:26:03 [ERROR] Worksheet named '發文' not found

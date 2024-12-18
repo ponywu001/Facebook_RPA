@@ -1,0 +1,261 @@
+2024-12-18 10:33:44 [INFO] 請選擇您要使用的 Excel 檔案...
+2024-12-18 10:33:47 [INFO] 選擇的 Excel 檔案路徑：C:/Users/user/Desktop/SuChenAI/Factbook-RPA-clickurl/data/fb_account_data_test.xlsx
+2024-12-18 10:33:47 [INFO] 請輸入最大多開數量 (1-10，預設為 1):
+2024-12-18 10:33:54 [INFO] 最大多開數量已設定為：10
+2024-12-18 10:33:54 [INFO] 螢幕寬度：2560，螢幕高度：1440，縮放比例：1.5
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:33:54 [INFO] 開始處理跳轉帳號...
+2024-12-18 10:33:54 [INFO] Worker 1: 開始處理帳號 66634899161
+2024-12-18 10:33:54 [INFO] Worker 2: 開始處理帳號 66637943259
+2024-12-18 10:33:54 [INFO] Worker 3: 開始處理帳號 66634899161
+2024-12-18 10:33:54 [INFO] Worker 4: 開始處理帳號 66637943259
+2024-12-18 10:33:54 [INFO] Worker 5: 開始處理帳號 66619622845
+2024-12-18 10:33:54 [INFO] Worker 6: 開始處理帳號 66935324825
+2024-12-18 10:33:54 [INFO] Worker 7: 開始處理帳號 66990183891
+2024-12-18 10:33:54 [INFO] Worker 8: 開始處理帳號 66823237283
+2024-12-18 10:33:54 [INFO] Worker 9: 開始處理帳號 66991704166
+2024-12-18 10:33:54 [INFO] Worker 10: 開始處理帳號 66646155782
+2024-12-18 10:33:54 [INFO] 開始監控任務狀態...
+2024-12-18 10:34:04 [INFO] Worker 4: 代理 kamoney03.ddns.net:24003.0 設置成功
+2024-12-18 10:34:05 [INFO] Worker 7: 代理 kamoney03.ddns.net:24001.0 設置成功
+2024-12-18 10:34:08 [INFO] Worker 1: 代理 kamoney03.ddns.net:24004.0 設置成功
+2024-12-18 10:34:08 [INFO] Worker 4: Cookies 已加載成功: cookies\66637943259_cookies.json
+2024-12-18 10:34:11 [INFO] Worker 7: Cookies 已加載成功: cookies\66990183891_cookies.json
+2024-12-18 10:34:13 [INFO] Worker 8: 代理 kamoney03.ddns.net:24008.0 設置成功
+2024-12-18 10:34:13 [INFO] Worker 1: Cookies 已加載成功: cookies\66634899161_cookies.json
+2024-12-18 10:34:14 [INFO] Worker 7: 使用 cookies 登入過程中出現錯誤: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1550:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+2024-12-18 10:34:14 [INFO] Worker 7: 帳號 66990183891 操作時發生錯誤: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:863:39
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+2024-12-18 10:34:15 [INFO] Worker 2: 配置 SOCKS5 代理時出錯: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1550:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-12-18 10:34:15 [INFO] Worker 2: 設置代理時出錯: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1550:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+，嘗試重新設置代理 (1/5)
+2024-12-18 10:34:15 [INFO] Worker 2: 關閉空白標籤頁時出錯: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-12-18 10:34:15 [INFO] Worker 2: 設置代理時出錯: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+，嘗試重新設置代理 (2/5)
+2024-12-18 10:34:15 [INFO] Worker 2: 關閉空白標籤頁時出錯: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-12-18 10:34:15 [INFO] Worker 2: 設置代理時出錯: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+，嘗試重新設置代理 (3/5)
+2024-12-18 10:34:15 [INFO] Worker 2: 關閉空白標籤頁時出錯: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-12-18 10:34:15 [INFO] Worker 2: 設置代理時出錯: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+，嘗試重新設置代理 (4/5)
+2024-12-18 10:34:15 [INFO] Worker 2: 關閉空白標籤頁時出錯: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-12-18 10:34:15 [INFO] Worker 2: 設置代理時出錯: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+，嘗試重新設置代理 (5/5)
+2024-12-18 10:34:15 [INFO] Worker 3: 初始化 driver 时出错: Message: Failed to decode response from marionette
+2024-12-18 10:34:15 [INFO] Worker 11: 開始處理帳號 447388000000
+2024-12-18 10:34:15 [INFO] 處理帳號時發生錯誤: cannot access local variable 'driver' where it is not associated with a value
+2024-12-18 10:34:15 [INFO] Worker 1: 使用 cookies 登入過程中出現錯誤: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1550:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-12-18 10:34:15 [INFO] Worker 8: 加載 Cookies 時發生錯誤: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.addCookie@chrome://remote/content/marionette/driver.sys.mjs:2238:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-12-18 10:34:15 [INFO] Worker 1: 帳號 66634899161 操作時發生錯誤: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-12-18 10:34:15 [INFO] Worker 8: 帳號 66823237283 操作時發生錯誤: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-12-18 10:34:15 [INFO] Worker 4: 瀏覽器崩潰，已停止該任務
+2024-12-18 10:34:15 [INFO] Worker 4: 使用 cookies 登入過程中出現錯誤: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20

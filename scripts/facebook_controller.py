@@ -5,13 +5,16 @@ from modules.operations.post_manager import PostManager
 from modules.operations.comment_manager import CommentManager
 from modules.operations.crawl_manager import CrawlManager
 from modules.operations.click_manager import ClickManager
+from modules.operations.navigate_manager import NavigateManager
 from modules.task_monitor import TaskMonitor
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from config.settings import EXCEL_PATH, MAX_WORKERS
 import threading
+import random
+import pandas as pd
 
 # 初始化多窗口設置
-multi_window_setup = MultiWindowSetup(columns=5, rows=2)
+multi_window_setup = MultiWindowSetup(columns=4, rows=2)
 positions = multi_window_setup.positions
 
 def process_post_account(account_info, position, task_status, worker_id):
@@ -35,9 +38,15 @@ def process_crawl_account(account_info, position, task_status, worker_id):
     
 def process_click_account(account_info, position, task_status, worker_id):
     """
+    專門處理點擊帳號的操作。
+    """
+    process_account(account_info, position, task_status, worker_id, operation="click")   
+    
+def process_navigate_account(account_info, position, task_status, worker_id):
+    """
     專門處理跳轉帳號的操作。
     """
-    process_account(account_info, position, task_status, worker_id, operation="click")    
+    process_account(account_info, position, task_status, worker_id, operation="navigate")  
 
 def process_account(account_info, position, task_status, worker_id, operation=None):
     """
@@ -46,7 +55,7 @@ def process_account(account_info, position, task_status, worker_id, operation=No
     :param position: 窗口位置
     :param task_status: 用於跟蹤任務狀態
     :param worker_id: 每個 worker 的唯一標識
-    :param operation: 操作類型 ("post"、"comment"、"crawl" 或 "click")
+    :param operation: 操作類型 ("post"、"comment"、"crawl"、"click" 或 "navigate")
     """
     print(f"Worker {worker_id}: 開始處理帳號 {account_info['account']}")
 
@@ -116,6 +125,14 @@ def process_account(account_info, position, task_status, worker_id, operation=No
                 click_manager.process_clicks(account_info["clicks"], task_status)  # 處理點擊操作
             except Exception as e:  # 如果出現錯誤，print錯誤信息
                 print(f"Worker {worker_id}: 點擊過程中出現錯誤: {e}")
+                
+        elif operation == "navigate" and "navigates" in account_info and account_info["navigates"]:
+            print(f"Worker {worker_id}: 開始跳轉操作...")
+            try:  # 嘗試處理跳轉操作
+                navigate_manager = NavigateManager(driver, worker_id)  # 創建 NavigateManager 實例
+                navigate_manager.process_navigates(account_info["navigates"], task_status)  # 處理跳轉操作
+            except Exception as e:  # 如果出現錯誤，print錯誤信息
+                print(f"Worker {worker_id}: 跳轉過程中出現錯誤: {e}")
 
     except Exception as e:  # 如果出現錯誤，print錯誤信息
         print(f"Worker {worker_id}: 帳號 {account_info['account']} 操作時發生錯誤: {e}")
@@ -133,7 +150,7 @@ def process_accounts(accounts, positions, max_workers, operation):
     :param accounts: 帳號列表
     :param positions: 瀏覽器窗口位置
     :param max_workers: 最大並行數
-    :param operation: 操作類型 ("post" 或 "comment")
+    :param operation: 操作類型 ("post"、"comment"、"crawl"、"click" 或 "navigate")
     """
     tasks_status = {}  # 用於存儲任務狀態
     all_tasks_completed = threading.Event()  # 用於監控所有任務是否完成
@@ -157,6 +174,8 @@ def process_accounts(accounts, positions, max_workers, operation):
                 future = executor.submit(process_crawl_account, account_info, position, task_status, worker_id)
             elif operation == "click":
                 future = executor.submit(process_click_account, account_info, position, task_status, worker_id)
+            elif operation == "navigate":
+                future = executor.submit(process_navigate_account, account_info, position, task_status, worker_id)
             else:
                 raise ValueError(f"未知的操作類型: {operation}")
 
@@ -178,8 +197,11 @@ def process_accounts(accounts, positions, max_workers, operation):
 
 # 主流程函數
 def facebook_controller():
+    """
+    Facebook Bot 主流程函數
+    """    
     data_loader = DataLoader(EXCEL_PATH)  # 創建 DataLoader 實例
-    post_accounts, comment_accounts, crawl_accounts, click_accounts = data_loader.load_account_data()  # 加載帳號資料
+    post_accounts, comment_accounts, crawl_accounts, click_accounts, navigate_accounts = data_loader.load_account_data()  # 加載帳號資料
     max_workers = MAX_WORKERS  # 設置並行的最大線程數
 
     if post_accounts:  # 如果發文帳號存在
@@ -194,9 +216,13 @@ def facebook_controller():
         print("開始處理爬蟲帳號...")
         process_accounts(crawl_accounts, positions, max_workers, operation="crawl")  # 處理爬蟲帳號
         
-    if click_accounts:  # 如果跳轉帳號存在
+    if click_accounts:  # 如果點擊帳號存在
+        print("開始處理點擊帳號...")
+        process_accounts(click_accounts, positions, max_workers, operation="click")  # 處理點擊帳號
+        
+    if navigate_accounts:  # 如果點擊帳號存在
         print("開始處理跳轉帳號...")
-        process_accounts(click_accounts, positions, max_workers, operation="click")  # 處理跳轉帳號
+        process_accounts(navigate_accounts, positions, max_workers, operation="navigate")  # 處理點擊帳號
 
 # 確保直接運行 facebook_controller.py 時會執行主流程
 if __name__ == "__main__":

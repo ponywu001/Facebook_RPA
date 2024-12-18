@@ -1,0 +1,35 @@
+2024-12-18 10:15:12 [INFO] 請選擇您要使用的 Excel 檔案...
+2024-12-18 10:15:15 [INFO] 選擇的 Excel 檔案路徑：C:/Users/user/Desktop/SuChenAI/Factbook-RPA-clickurl/data/fb_account_data_test.xlsx
+2024-12-18 10:15:15 [INFO] 請輸入最大多開數量 (1-10，預設為 1):
+2024-12-18 10:15:17 [INFO] 最大多開數量已設定為：1
+2024-12-18 10:15:17 [INFO] 螢幕寬度：2560，螢幕高度：1440，縮放比例：1.5
+2024-12-18 10:15:17 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:15:17 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:15:17 [INFO] 開始處理跳轉帳號...
+2024-12-18 10:15:17 [INFO] Worker 1: 開始處理帳號 66634899161
+2024-12-18 10:15:17 [INFO] 開始監控任務狀態...
+2024-12-18 10:15:25 [INFO] Worker 1: 代理 kamoney03.ddns.net:24004 設置成功
+2024-12-18 10:15:26 [INFO] Worker 1: Cookies 已加載成功: cookies\66634899161_cookies.json
+2024-12-18 10:15:31 [INFO] Worker 1: 帳號 66634899161 使用 cookies 成功登入
+2024-12-18 10:15:31 [INFO] Worker 1: 登錄成功，開始處理帳號 66634899161 的操作...
+2024-12-18 10:15:31 [INFO] Worker 1: 開始跳轉操作...
+2024-12-18 10:15:31 [INFO] Worker 1: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:15:34 [INFO] Worker 1 隨機停留 8 秒
+2024-12-18 10:15:43 [INFO] Worker 1: 成功按讚
+2024-12-18 10:15:43 [INFO] Worker 1 按讚後隨機停留 5 秒
+2024-12-18 10:15:53 [INFO] Worker 1: 跳轉 URL 時發生錯誤: list index out of range
+2024-12-18 10:15:54 [INFO] Worker 1: 瀏覽器已關閉，任務已完成
+2024-12-18 10:15:56 [INFO] Worker 1: 帳號 66634899161 的任務已結束
+2024-12-18 10:15:56 [INFO] Worker 2: 開始處理帳號 66637943259
+2024-12-18 10:16:04 [INFO] Worker 2: 代理 kamoney03.ddns.net:24003 設置成功
+2024-12-18 10:16:05 [INFO] Worker 2: Cookies 已加載成功: cookies\66637943259_cookies.json
+2024-12-18 10:16:09 [INFO] Worker 2: 帳號 66637943259 使用 cookies 成功登入
+2024-12-18 10:16:09 [INFO] Worker 2: 登錄成功，開始處理帳號 66637943259 的操作...
+2024-12-18 10:16:09 [INFO] Worker 2: 開始跳轉操作...
+2024-12-18 10:16:09 [INFO] Worker 2: 正在開啟貼文: https://www.facebook.com/share/18QgQ2Y2dz/
+2024-12-18 10:16:12 [INFO] Worker 2 隨機停留 6 秒
+2024-12-18 10:16:20 [INFO] Worker 2: 成功按讚
+2024-12-18 10:16:20 [INFO] Worker 2 按讚後隨機停留 4 秒
+2024-12-18 10:16:28 [INFO] Worker 2: 跳轉 URL 時發生錯誤: list index out of range
+2024-12-18 10:16:28 [INFO] Worker 2: 瀏覽器已關閉，任務已完成
+2024-12-18 10:16:30 [INFO] Worker 2: 帳號 66637943259 的任務已結束

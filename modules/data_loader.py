@@ -1,21 +1,23 @@
 import pandas as pd
+import random
 import re
 import os
 
 class DataLoader:
     def __init__(self, excel_path):  # 初始化 DataLoader 類，設置 Excel 文件路徑
         self.excel_path = excel_path  # 設置 Excel 文件路徑
-    
+        
     def load_account_data(self):  # 讀取並解析 Excel 文件中的帳號資料
         """讀取並解析 Excel 文件中的帳號資料。"""
-        # 分別讀取 "發文", "留言", "爬蟲" 和 "跳轉" 三個 tab 的資料
-        sheet_names = ["發文", "留言", "爬蟲", "跳轉"]  # 設置要讀取的 tab 名稱
+        # 分別讀取 "發文", "留言", "爬蟲", "點擊" 和 "跳轉" 三個 tab 的資料
+        sheet_names = ["發文", "留言", "爬蟲", "點擊", "跳轉"]  # 設置要讀取的 tab 名稱
         sheets = pd.read_excel(self.excel_path, sheet_name=sheet_names)  # 讀取 Excel 文件中的指定 tab
-
+    
         post_accounts = []  # 用於存放發文的帳號資料
         comment_accounts = []  # 用於存放留言的帳號資料
         crawl_accounts = [] # 用於存放爬蟲的帳號資料
-        click_accounts = [] # 用於存放跳轉的帳號資料
+        click_accounts = [] # 用於存放點擊的帳號資料
+        navigate_accounts = [] # 用於存放跳轉的帳號資料
 
         errors = []  # 用於累積所有錯誤訊息
 
@@ -65,20 +67,28 @@ class DataLoader:
                     account_info["crawls"] = crawls  # 將爬蟲資料加入帳號資訊
                     crawl_accounts.append(account_info)  # 將帳號資訊加入爬蟲帳號列表
                     
-                elif sheet_name == "跳轉":
+                elif sheet_name == "點擊":
                     clicks = self._parse_clicks(row, row_idx, errors, sheet_name)  # 解析爬蟲資料
                     account_info["clicks"] = clicks  # 將爬蟲資料加入帳號資訊
                     click_accounts.append(account_info)  # 將帳號資訊加入爬蟲帳號列表
-            print(f'click_accounts: {click_accounts}')
+                    
+                elif sheet_name == "跳轉":
+                    navigates = self._parse_navigates(row, row_idx, errors, sheet_name)  # 解析爬蟲資料
+                    account_info["navigates"] = navigates  # 將爬蟲資料加入帳號資訊
+                    navigate_accounts.append(account_info)  # 將帳號資訊加入爬蟲帳號列表
+            # print(f'click_accounts: {click_accounts}')
 
-        # 若有錯誤，則顯示並停止程式
+        # true_account_num = eval(input("請輸入帳號數量:"))
+        # click_accounts = set_true_count(click_accounts, true_account_num)
+
+        # 若有錯誤，則顯示並停止程式    
         if errors:  # 如果存在錯誤  
             print("發現以下錯誤，請修正後再重新執行：")  # 打印錯誤訊息
             for error in errors:  # 遍歷每個錯誤
                 print(error)  # 打印錯誤訊息
             raise Exception("資料格式錯誤，程序已停止執行。")  # 拋出錯誤
 
-        return post_accounts, comment_accounts, crawl_accounts, click_accounts  # 返回發文、留言和爬蟲帳號列表
+        return post_accounts, comment_accounts, crawl_accounts, click_accounts, navigate_accounts  # 返回發文、留言和爬蟲帳號列表
     
     def _parse_posts(self, row, row_idx, errors, sheet_name):
         """解析發文資料。"""
@@ -306,43 +316,91 @@ class DataLoader:
         return crawls
 
     def _parse_clicks(self, row, row_idx, errors, sheet_name):
-        """解析跳轉資料。"""
+        """解析點擊資料。"""
         clicks = []
-        index = 1  # 跳轉組的編號索引
+        index = 1  # 點擊組的編號索引
 
         while True:
-            # 定義當前跳轉組所需的欄位
+            # 定義當前點擊組所需的欄位
             expected_columns = [ 
-                f"跳轉連結_{index}",  # 跳轉連結
-                f"跳轉操作_{index}",  # 跳轉操作
+                f"點擊連結_{index}",  # 點擊連結
+                f"點擊操作_{index}",  # 點擊操作
             ]
             
             # 檢查每個欄位是否存在
             if not all(col in row.index for col in expected_columns):  # 如果欄位不存在
                 break  # 跳出迴圈
 
-            # 構建跳轉組訊息
-            action_value = row.get(f"跳轉操作_{index}", "FALSE")  # 獲取跳轉操作值
-            action = action_value == "TRUE" or action_value is True  # 將跳轉操作值轉換為布林值
-            click_url = str(row.get(f"跳轉連結_{index}", "")).strip()  # 獲取跳轉連結值
+            # 構建點擊組訊息
+            action_value = row.get(f"點擊操作_{index}", "FALSE")  # 獲取點擊操作值
+            action = action_value == "TRUE" or action_value is True  # 將點擊操作值轉換為布林值
+            click_url = str(row.get(f"點擊連結_{index}", "")).strip()  # 獲取點擊連結值
             
             # 規則檢查
-            # 規則一: 跳轉連結不能為空
-            if pd.isna(click_url) or click_url == "":  # 如果跳轉連結為空
-                errors.append(f"[{sheet_name}] 錯誤：第 {row_idx + 2} 列的第 {index} 組中跳轉連結為空，請填寫正確的連結。")
+            # 規則一: 點擊連結不能為空
+            if pd.isna(click_url) or click_url == "":  # 如果點擊連結為空
+                errors.append(f"[{sheet_name}] 錯誤：第 {row_idx + 2} 列的第 {index} 組中點擊連結為空，請填寫正確的連結。")
 
-            # 規則二: 跳轉操作只能為 "TRUE" 或 "FALSE"
-            if action_value not in ["TRUE", "FALSE", True, False]:  # 如果跳轉操作值不是 "TRUE" 或 "FALSE"
-                errors.append(f"[{sheet_name}] 錯誤：第 {row_idx + 2} 列的第 {index} 組的跳轉操作 '{action_value}' 無效，僅允許 'TRUE' 或 'FALSE'。")
+            # 規則二: 點擊操作只能為 "TRUE" 或 "FALSE"
+            if action_value not in ["TRUE", "FALSE", True, False]:  # 如果點擊操作值不是 "TRUE" 或 "FALSE"
+                errors.append(f"[{sheet_name}] 錯誤：第 {row_idx + 2} 列的第 {index} 組的點擊操作 '{action_value}' 無效，僅允許 'TRUE' 或 'FALSE'。")
 
-            # 如果跳轉操作為 TRUE，加入跳轉列表
+            # 如果點擊操作為 TRUE，加入點擊列表
             if action:
                 click = {
-                    "url": click_url,  # 跳轉連結
-                    "action": action  # 跳轉操作
+                    "url": click_url,  # 點擊連結
+                    "action": action  # 點擊操作
                 }
-                clicks.append(click)  # 將跳轉資料加入爬蟲列表
+                clicks.append(click)  # 將點擊資料加入爬蟲列表
 
             index += 1  # 移動到下一組
         print(f"clicks : {clicks}")
         return clicks
+    
+    def _parse_navigates(self, row, row_idx, errors, sheet_name):
+        """解析點擊資料。"""
+        navigates = []
+        index = 1  # 點擊組的編號索引
+
+        while True:
+            # 定義當前點擊組所需的欄位
+            expected_columns = [ 
+                f"跳轉連結_{index}",  # 點擊連結
+                f"跳轉外部連結_{index}",  # 點擊連結
+                f"跳轉操作_{index}",  # 點擊操作
+            ]
+            
+            # 檢查每個欄位是否存在
+            if not all(col in row.index for col in expected_columns):  # 如果欄位不存在
+                break  # 跳出迴圈
+
+            # 構建點擊組訊息
+            action_value = row.get(f"跳轉操作_{index}", "FALSE")  # 獲取跳轉操作值
+            action = action_value == "TRUE" or action_value is True  # 將跳轉操作值轉換為布林值
+            navigate_url = str(row.get(f"跳轉連結_{index}", "")).strip()  # 獲取跳轉連結值
+            navigate_out_url = str(row.get(f"跳轉外部連結_{index}", "")).strip()  # 獲取跳轉外部連結值
+            
+            # 規則檢查
+            # 規則一: 跳轉連結不能為空
+            if pd.isna(navigate_url) or navigate_url == "":  # 如果跳轉連結為空
+                errors.append(f"[{sheet_name}] 錯誤：第 {row_idx + 2} 列的第 {index} 組中跳轉連結為空，請填寫正確的連結。")
+                
+            # 規則二: 跳轉外部連結不能為空
+            if pd.isna(navigate_out_url) or navigate_out_url == "":  # 如果跳轉外部連結為空
+                errors.append(f"[{sheet_name}] 錯誤：第 {row_idx + 2} 列的第 {index} 組中跳轉外部連結為空，請填寫正確的連結。")
+
+            # 規則二: 點擊操作只能為 "TRUE" 或 "FALSE"
+            if action_value not in ["TRUE", "FALSE", True, False]:  # 如果點擊操作值不是 "TRUE" 或 "FALSE"
+                errors.append(f"[{sheet_name}] 錯誤：第 {row_idx + 2} 列的第 {index} 組的點擊操作 '{action_value}' 無效，僅允許 'TRUE' 或 'FALSE'。")
+
+            # 如果點擊操作為 TRUE，加入點擊列表
+            if action:
+                navigate = {
+                    "url": navigate_url,  # 點擊連結
+                    "out_url": navigate_out_url,  # 點擊連結
+                    "action": action  # 點擊操作
+                }
+                navigates.append(navigate)  # 將點擊資料加入爬蟲列表
+
+            index += 1  # 移動到下一組
+        return navigates

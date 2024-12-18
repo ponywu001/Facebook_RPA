@@ -1,0 +1,84 @@
+2024-12-18 10:13:27 [INFO] 請選擇您要使用的 Excel 檔案...
+2024-12-18 10:13:30 [INFO] 選擇的 Excel 檔案路徑：C:/Users/user/Desktop/SuChenAI/Factbook-RPA-clickurl/data/fb_account_data_test.xlsx
+2024-12-18 10:13:30 [INFO] 請輸入最大多開數量 (1-10，預設為 1):
+2024-12-18 10:13:32 [INFO] 最大多開數量已設定為：1
+2024-12-18 10:13:32 [INFO] 螢幕寬度：2560，螢幕高度：1440，縮放比例：1.5
+2024-12-18 10:13:32 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:13:32 [INFO] navigates : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'out_url': 'https://japanticket.com/prestige/tw/hokkaido/?fbclid=IwY2xjawHOKBpleHRuA2FlbQIxMAABHaGHzkUa9Xrj3SjatXaC9Yb4VFZXJHVNg6UjonFymwRNzb_q9RvBc3yZxA_aem_RLkYjGlaRRosmk8r7xkD4g#utm_source=prestige_tw_fb&utm_medium=social&utm_campaign=hokkaido_tour_tw_fb', 'action': True}]
+2024-12-18 10:13:32 [INFO] 開始處理跳轉帳號...
+2024-12-18 10:13:32 [INFO] Worker 1: 開始處理帳號 66634899161
+2024-12-18 10:13:32 [INFO] 開始監控任務狀態...
+2024-12-18 10:13:40 [INFO] Worker 1: 代理 kamoney03.ddns.net:24004 設置成功
+2024-12-18 10:13:41 [INFO] Worker 1: Cookies 已加載成功: cookies\66634899161_cookies.json
+2024-12-18 10:13:45 [INFO] Worker 1: 帳號 66634899161 使用 cookies 成功登入
+2024-12-18 10:13:45 [INFO] Worker 1: 登錄成功，開始處理帳號 66634899161 的操作...
+2024-12-18 10:13:45 [INFO] Worker 1: 開始跳轉操作...
+2024-12-18 10:13:45 [INFO] Worker 1: 跳轉過程中出現錯誤: name 'NavigateManager' is not defined
+2024-12-18 10:13:46 [INFO] Worker 1: 瀏覽器已關閉，任務已完成
+2024-12-18 10:13:48 [INFO] Worker 1: 帳號 66634899161 的任務已結束
+2024-12-18 10:13:48 [INFO] Worker 2: 開始處理帳號 66637943259
+2024-12-18 10:13:55 [INFO] Worker 2: 配置 SOCKS5 代理時出錯: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1550:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+2024-12-18 10:13:55 [INFO] Worker 2: 設置代理時出錯: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1550:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+，嘗試重新設置代理 (1/5)
+2024-12-18 10:13:55 [INFO] Worker 2: 關閉空白標籤頁時出錯: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-12-18 10:13:55 [INFO] Worker 2: 設置代理時出錯: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+，嘗試重新設置代理 (2/5)
+2024-12-18 10:13:55 [INFO] Worker 2: 關閉空白標籤頁時出錯: Message: Failed to decode response from marionette
+2024-12-18 10:13:55 [INFO] Worker 2: 設置代理時出錯: Message: Failed to decode response from marionette
+，嘗試重新設置代理 (3/5)
+2024-12-18 10:13:55 [INFO] Worker 2: 關閉空白標籤頁時出錯: Message: Tried to run command without establishing a connection
+2024-12-18 10:13:55 [INFO] Worker 2: 設置代理時出錯: Message: Tried to run command without establishing a connection
+，嘗試重新設置代理 (4/5)
+2024-12-18 10:13:55 [INFO] Worker 2: 關閉空白標籤頁時出錯: Message: Tried to run command without establishing a connection
+2024-12-18 10:13:55 [INFO] Worker 2: 設置代理時出錯: Message: Tried to run command without establishing a connection
+，嘗試重新設置代理 (5/5)
+2024-12-18 10:13:57 [INFO] Worker 2: 瀏覽器已關閉，任務已完成
+2024-12-18 10:13:57 [INFO] Worker 2: 跳過帳號 66637943259，因為代理配置失敗

@@ -1,0 +1,375 @@
+2024-12-17 18:30:30 [INFO] 請選擇您要使用的 Excel 檔案...
+2024-12-17 18:30:35 [INFO] 選擇的 Excel 檔案路徑：C:/Users/user/Desktop/SuChenAI/Factbook-RPA-clickurl/data/fb_account_data.xlsx
+2024-12-17 18:30:35 [INFO] 請輸入最大多開數量 (1-10，預設為 1):
+2024-12-17 18:30:37 [INFO] 最大多開數量已設定為：10
+2024-12-17 18:30:37 [INFO] 螢幕寬度：2560，螢幕高度：1440，縮放比例：1.5
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 18:30:38 [INFO] 開始處理點擊帳號...
+2024-12-17 18:30:38 [INFO] Worker 1: 開始處理帳號 66634899161
+2024-12-17 18:30:38 [INFO] Worker 2: 開始處理帳號 66637943259
+2024-12-17 18:30:38 [INFO] Worker 3: 開始處理帳號 66619622845
+2024-12-17 18:30:38 [INFO] Worker 4: 開始處理帳號 66935324825
+2024-12-17 18:30:38 [INFO] Worker 5: 開始處理帳號 66990183891
+2024-12-17 18:30:38 [INFO] Worker 6: 開始處理帳號 66823237283
+2024-12-17 18:30:38 [INFO] Worker 7: 開始處理帳號 66991704166
+2024-12-17 18:30:38 [INFO] Worker 8: 開始處理帳號 66646155782
+2024-12-17 18:30:38 [INFO] Worker 9: 開始處理帳號 447387826081
+2024-12-17 18:30:38 [INFO] Worker 10: 開始處理帳號 66643407753
+2024-12-17 18:30:38 [INFO] 開始監控任務狀態...
+2024-12-17 18:30:47 [INFO] Worker 9: 代理 kamoney03.ddns.net:24001.0 設置成功
+2024-12-17 18:30:47 [INFO] Worker 8: 代理 kamoney03.ddns.net:24010.0 設置成功
+2024-12-17 18:30:49 [INFO] Worker 5: 代理 kamoney03.ddns.net:24001.0 設置成功
+2024-12-17 18:30:50 [INFO] Worker 2: 代理 kamoney03.ddns.net:24003.0 設置成功
+2024-12-17 18:30:50 [INFO] Worker 9: Cookies 已加載成功: cookies\447387826081_cookies.json
+2024-12-17 18:30:50 [INFO] Worker 8: Cookies 已加載成功: cookies\66646155782_cookies.json
+2024-12-17 18:30:51 [INFO] Worker 5: Cookies 已加載成功: cookies\66990183891_cookies.json
+2024-12-17 18:30:52 [INFO] Worker 7: 代理 kamoney03.ddns.net:24009.0 設置成功
+2024-12-17 18:30:54 [INFO] Worker 2: Cookies 已加載成功: cookies\66637943259_cookies.json
+2024-12-17 18:30:57 [INFO] Worker 7: Cookies 已加載成功: cookies\66991704166_cookies.json
+2024-12-17 18:30:58 [INFO] Worker 4: 代理 kamoney03.ddns.net:24006.0 設置成功
+2024-12-17 18:30:59 [INFO] Worker 9: 帳號 447387826081 使用 cookies 成功登入
+2024-12-17 18:30:59 [INFO] Worker 9: 登錄成功，開始處理帳號 447387826081 的操作...
+2024-12-17 18:30:59 [INFO] Worker 9: 開始點擊操作...
+2024-12-17 18:30:59 [INFO] Worker 9: 正在開啟貼文: https://www.facebook.com/prestigetaiwan/posts/889301466651603
+2024-12-17 18:30:59 [INFO] Worker 2: 帳號 66637943259 使用 cookies 成功登入
+2024-12-17 18:30:59 [INFO] Worker 2: 登錄成功，開始處理帳號 66637943259 的操作...
+2024-12-17 18:30:59 [INFO] Worker 2: 開始點擊操作...
+2024-12-17 18:30:59 [INFO] Worker 2: 正在開啟貼文: https://www.facebook.com/prestigetaiwan/posts/889301466651603
+2024-12-17 18:30:59 [INFO] Worker 5: 帳號 66990183891 使用 cookies 成功登入
+2024-12-17 18:30:59 [INFO] Worker 5: 登錄成功，開始處理帳號 66990183891 的操作...
+2024-12-17 18:30:59 [INFO] Worker 5: 開始點擊操作...
+2024-12-17 18:30:59 [INFO] Worker 5: 正在開啟貼文: https://www.facebook.com/prestigetaiwan/posts/889301466651603
+2024-12-17 18:30:59 [INFO] Worker 6: 代理 kamoney03.ddns.net:24008.0 設置成功
+2024-12-17 18:31:01 [INFO] Worker 3: 代理 kamoney03.ddns.net:24005.0 設置成功
+2024-12-17 18:31:01 [INFO] Worker 8: 帳號 66646155782 使用 cookies 成功登入
+2024-12-17 18:31:01 [INFO] Worker 8: 登錄成功，開始處理帳號 66646155782 的操作...
+2024-12-17 18:31:01 [INFO] Worker 8: 開始點擊操作...
+2024-12-17 18:31:01 [INFO] Worker 8: 正在開啟貼文: https://www.facebook.com/prestigetaiwan/posts/889301466651603
+2024-12-17 18:31:01 [INFO] Worker 6: Cookies 已加載成功: cookies\66823237283_cookies.json
+2024-12-17 18:31:04 [INFO] Worker 4: Cookies 已加載成功: cookies\66935324825_cookies.json
+2024-12-17 18:31:04 [INFO] Worker 5 隨機停留 7 秒
+2024-12-17 18:31:04 [INFO] Worker 6: 帳號 66823237283 使用 cookies 成功登入
+2024-12-17 18:31:04 [INFO] Worker 6: 登錄成功，開始處理帳號 66823237283 的操作...
+2024-12-17 18:31:04 [INFO] Worker 6: 開始點擊操作...
+2024-12-17 18:31:04 [INFO] Worker 6: 正在開啟貼文: https://www.facebook.com/prestigetaiwan/posts/889301466651603
+2024-12-17 18:31:04 [INFO] Worker 3: Cookies 已加載成功: cookies\66619622845_cookies.json
+2024-12-17 18:31:05 [INFO] Worker 7: 帳號 66991704166 使用 cookies 成功登入
+2024-12-17 18:31:05 [INFO] Worker 7: 登錄成功，開始處理帳號 66991704166 的操作...
+2024-12-17 18:31:05 [INFO] Worker 7: 開始點擊操作...
+2024-12-17 18:31:05 [INFO] Worker 7: 正在開啟貼文: https://www.facebook.com/prestigetaiwan/posts/889301466651603
+2024-12-17 18:31:06 [INFO] Worker 9 隨機停留 6 秒
+2024-12-17 18:31:06 [INFO] Worker 1: 代理 kamoney03.ddns.net:24004.0 設置成功
+2024-12-17 18:31:07 [INFO] Worker 4: 帳號 66935324825 使用 cookies 成功登入
+2024-12-17 18:31:07 [INFO] Worker 4: 登錄成功，開始處理帳號 66935324825 的操作...
+2024-12-17 18:31:07 [INFO] Worker 4: 開始點擊操作...
+2024-12-17 18:31:07 [INFO] Worker 4: 正在開啟貼文: https://www.facebook.com/prestigetaiwan/posts/889301466651603
+2024-12-17 18:31:07 [INFO] Worker 3: 帳號 66619622845 使用 cookies 成功登入
+2024-12-17 18:31:07 [INFO] Worker 3: 登錄成功，開始處理帳號 66619622845 的操作...
+2024-12-17 18:31:07 [INFO] Worker 3: 開始點擊操作...
+2024-12-17 18:31:07 [INFO] Worker 3: 正在開啟貼文: https://www.facebook.com/prestigetaiwan/posts/889301466651603
+2024-12-17 18:31:08 [INFO] Worker 6 隨機停留 7 秒
+2024-12-17 18:31:08 [INFO] Worker 10: 代理 kamoney03.ddns.net:24006.8055555556 設置成功
+2024-12-17 18:31:10 [INFO] Worker 1: Cookies 已加載成功: cookies\66634899161_cookies.json
+2024-12-17 18:31:10 [INFO] Worker 7 隨機停留 8 秒
+2024-12-17 18:31:13 [INFO] Worker 4 隨機停留 7 秒
+2024-12-17 18:31:14 [INFO] Worker 10: Cookies 已加載成功: cookies\66643407753_cookies.json
+2024-12-17 18:31:14 [INFO] Worker 3 隨機停留 8 秒
+2024-12-17 18:31:14 [INFO] Worker 1: 帳號 66634899161 使用 cookies 成功登入
+2024-12-17 18:31:14 [INFO] Worker 1: 登錄成功，開始處理帳號 66634899161 的操作...
+2024-12-17 18:31:14 [INFO] Worker 1: 開始點擊操作...
+2024-12-17 18:31:14 [INFO] Worker 1: 正在開啟貼文: https://www.facebook.com/prestigetaiwan/posts/889301466651603
+2024-12-17 18:31:17 [INFO] Worker 10: 帳號 66643407753 使用 cookies 成功登入
+2024-12-17 18:31:17 [INFO] Worker 10: 登錄成功，開始處理帳號 66643407753 的操作...
+2024-12-17 18:31:17 [INFO] Worker 10: 開始點擊操作...
+2024-12-17 18:31:17 [INFO] Worker 10: 正在開啟貼文: https://www.facebook.com/prestigetaiwan/posts/889301466651603
+2024-12-17 18:31:17 [INFO] Worker 1 隨機停留 6 秒
+2024-12-17 18:31:17 [INFO] Worker 6: 成功按讚
+2024-12-17 18:31:17 [INFO] Worker 6 按讚後隨機停留 3 秒
+2024-12-17 18:31:20 [INFO] Worker 5: 成功按讚
+2024-12-17 18:31:20 [INFO] Worker 5 按讚後隨機停留 4 秒
+2024-12-17 18:31:21 [INFO] Worker 10 隨機停留 6 秒
+2024-12-17 18:31:22 [INFO] Worker 8 隨機停留 6 秒
+2024-12-17 18:31:24 [INFO] Worker 3: 成功按讚
+2024-12-17 18:31:24 [INFO] Worker 3 按讚後隨機停留 5 秒
+2024-12-17 18:31:24 [INFO] Worker 7: 成功按讚
+2024-12-17 18:31:24 [INFO] Worker 7 按讚後隨機停留 5 秒
+2024-12-17 18:31:25 [INFO] Worker 9: 成功按讚
+2024-12-17 18:31:25 [INFO] Worker 9 按讚後隨機停留 3 秒
+2024-12-17 18:31:25 [INFO] Worker 6 隨機停留時間: 95 秒
+2024-12-17 18:31:25 [INFO] Worker 6: 向下滑動: 385 像素
+2024-12-17 18:31:26 [INFO] Worker 4: 成功按讚
+2024-12-17 18:31:26 [INFO] Worker 4 按讚後隨機停留 4 秒
+2024-12-17 18:31:28 [INFO] Worker 10: 成功按讚
+2024-12-17 18:31:28 [INFO] Worker 10 按讚後隨機停留 4 秒
+2024-12-17 18:31:28 [INFO] Worker 5 隨機停留時間: 107 秒
+2024-12-17 18:31:28 [INFO] Worker 5: 向下滑動: 395 像素
+2024-12-17 18:31:29 [INFO] Worker 1: 成功按讚
+2024-12-17 18:31:29 [INFO] Worker 1 按讚後隨機停留 4 秒
+2024-12-17 18:31:30 [INFO] Worker 8: 成功按讚
+2024-12-17 18:31:30 [INFO] Worker 8 按讚後隨機停留 5 秒
+2024-12-17 18:31:30 [INFO] Worker 3 隨機停留時間: 106 秒
+2024-12-17 18:31:30 [INFO] Worker 3: 向下滑動: 369 像素
+2024-12-17 18:31:30 [INFO] Worker 7 隨機停留時間: 71 秒
+2024-12-17 18:31:30 [INFO] Worker 7: 向下滑動: 217 像素
+2024-12-17 18:31:30 [INFO] Worker 6: 向下滑動: 247 像素
+2024-12-17 18:31:33 [INFO] Worker 5: 向下滑動: 223 像素
+2024-12-17 18:31:34 [INFO] Worker 10 隨機停留時間: 114 秒
+2024-12-17 18:31:35 [INFO] Worker 3: 向下滑動: 243 像素
+2024-12-17 18:31:35 [INFO] Worker 10: 向下滑動: 384 像素
+2024-12-17 18:31:35 [INFO] Worker 6: 向下滑動: 220 像素
+2024-12-17 18:31:35 [INFO] Worker 7: 向下滑動: 297 像素
+2024-12-17 18:31:36 [INFO] Worker 4 隨機停留時間: 120 秒
+2024-12-17 18:31:36 [INFO] Worker 9 隨機停留時間: 107 秒
+2024-12-17 18:31:36 [INFO] Worker 9: 向下滑動: 369 像素
+2024-12-17 18:31:37 [INFO] Worker 8 隨機停留時間: 103 秒
+2024-12-17 18:31:37 [INFO] Worker 8: 向下滑動: 391 像素
+2024-12-17 18:31:37 [INFO] Worker 5: 向下滑動: 392 像素
+2024-12-17 18:31:37 [INFO] Worker 1 隨機停留時間: 80 秒
+2024-12-17 18:31:37 [INFO] Worker 1: 向下滑動: 213 像素
+2024-12-17 18:31:38 [INFO] Worker 4: 向下滑動: 297 像素
+2024-12-17 18:31:39 [INFO] Worker 6: 向下滑動: 292 像素
+2024-12-17 18:31:39 [INFO] Worker 3: 向下滑動: 384 像素
+2024-12-17 18:31:40 [INFO] Worker 7: 向下滑動: 354 像素
+2024-12-17 18:31:41 [INFO] Worker 10: 向下滑動: 204 像素
+2024-12-17 18:31:41 [INFO] Worker 5: 向下滑動: 207 像素
+2024-12-17 18:31:42 [INFO] Worker 1: 向下滑動: 215 像素
+2024-12-17 18:31:42 [INFO] Worker 6: 向下滑動: 341 像素
+2024-12-17 18:31:43 [INFO] Worker 3: 向下滑動: 265 像素
+2024-12-17 18:31:44 [INFO] Worker 4: 向下滑動: 354 像素
+2024-12-17 18:31:44 [INFO] Worker 8: 向下滑動: 279 像素
+2024-12-17 18:31:44 [INFO] Worker 7: 向下滑動: 294 像素
+2024-12-17 18:31:44 [INFO] Worker 5: 向下滑動: 369 像素
+2024-12-17 18:31:45 [INFO] Worker 10: 向下滑動: 343 像素
+2024-12-17 18:31:46 [INFO] Worker 6: 向下滑動: 381 像素
+2024-12-17 18:31:46 [INFO] Worker 1: 向下滑動: 214 像素
+2024-12-17 18:31:47 [INFO] Worker 7: 向下滑動: 329 像素
+2024-12-17 18:31:49 [INFO] Worker 4: 向下滑動: 242 像素
+2024-12-17 18:31:49 [INFO] Worker 10: 向下滑動: 248 像素
+2024-12-17 18:31:49 [INFO] Worker 3: 向下滑動: 267 像素
+2024-12-17 18:31:49 [INFO] Worker 5: 向下滑動: 300 像素
+2024-12-17 18:31:49 [INFO] Worker 8: 向下滑動: 305 像素
+2024-12-17 18:31:51 [INFO] Worker 1: 向下滑動: 321 像素
+2024-12-17 18:31:51 [INFO] Worker 6: 向下滑動: 251 像素
+2024-12-17 18:31:52 [INFO] Worker 7: 向下滑動: 349 像素
+2024-12-17 18:31:52 [INFO] Worker 4: 向下滑動: 356 像素
+2024-12-17 18:31:53 [INFO] Worker 10: 向下滑動: 329 像素
+2024-12-17 18:31:53 [INFO] Worker 3: 向下滑動: 219 像素
+2024-12-17 18:31:53 [INFO] Worker 5: 向下滑動: 274 像素
+2024-12-17 18:31:54 [INFO] Worker 8: 向下滑動: 316 像素
+2024-12-17 18:31:54 [INFO] Worker 1: 向下滑動: 395 像素
+2024-12-17 18:31:55 [INFO] Worker 6: 向下滑動: 390 像素
+2024-12-17 18:31:55 [INFO] Worker 2 隨機停留 7 秒
+2024-12-17 18:31:56 [INFO] Worker 4: 向下滑動: 275 像素
+2024-12-17 18:31:56 [INFO] Worker 10: 向下滑動: 374 像素
+2024-12-17 18:31:57 [INFO] Worker 7: 向下滑動: 291 像素
+2024-12-17 18:31:57 [INFO] Worker 5: 向下滑動: 325 像素
+2024-12-17 18:31:58 [INFO] Worker 3: 向下滑動: 386 像素
+2024-12-17 18:31:58 [INFO] Worker 9: 向下滑動: 311 像素
+2024-12-17 18:31:58 [INFO] Worker 1: 向下滑動: 316 像素
+2024-12-17 18:31:59 [INFO] Worker 4: 向下滑動: 271 像素
+2024-12-17 18:31:59 [INFO] Worker 8: 向下滑動: 259 像素
+2024-12-17 18:32:00 [INFO] Worker 6: 向下滑動: 274 像素
+2024-12-17 18:32:01 [INFO] Worker 5: 向下滑動: 263 像素
+2024-12-17 18:32:01 [INFO] Worker 7: 向下滑動: 388 像素
+2024-12-17 18:32:01 [INFO] Worker 10: 向下滑動: 206 像素
+2024-12-17 18:32:01 [INFO] Worker 3: 向下滑動: 260 像素
+2024-12-17 18:32:02 [INFO] Worker 9: 向下滑動: 215 像素
+2024-12-17 18:32:02 [INFO] Worker 1: 向下滑動: 305 像素
+2024-12-17 18:32:03 [INFO] Worker 8: 向下滑動: 283 像素
+2024-12-17 18:32:04 [INFO] Worker 4: 向下滑動: 323 像素
+2024-12-17 18:32:04 [INFO] Worker 2: 成功按讚
+2024-12-17 18:32:04 [INFO] Worker 2 按讚後隨機停留 3 秒
+2024-12-17 18:32:04 [INFO] Worker 6: 向下滑動: 372 像素
+2024-12-17 18:32:05 [INFO] Worker 7: 向下滑動: 373 像素
+2024-12-17 18:32:05 [INFO] Worker 5: 向下滑動: 270 像素
+2024-12-17 18:32:06 [INFO] Worker 10: 向下滑動: 382 像素
+2024-12-17 18:32:06 [INFO] Worker 9: 向下滑動: 349 像素
+2024-12-17 18:32:06 [INFO] Worker 3: 向下滑動: 243 像素
+2024-12-17 18:32:06 [INFO] Worker 8: 向下滑動: 369 像素
+2024-12-17 18:32:06 [INFO] Worker 1: 向下滑動: 245 像素
+2024-12-17 18:32:07 [INFO] Worker 4: 向下滑動: 385 像素
+2024-12-17 18:32:08 [INFO] Worker 2 隨機停留時間: 76 秒
+2024-12-17 18:32:08 [INFO] Worker 2: 向下滑動: 310 像素
+2024-12-17 18:32:08 [INFO] Worker 7: 向下滑動: 252 像素
+2024-12-17 18:32:09 [INFO] Worker 6: 向下滑動: 248 像素
+2024-12-17 18:32:09 [INFO] Worker 10: 向下滑動: 393 像素
+2024-12-17 18:32:09 [INFO] Worker 5: 向下滑動: 390 像素
+2024-12-17 18:32:09 [INFO] Worker 9: 向下滑動: 343 像素
+2024-12-17 18:32:10 [INFO] Worker 4: 向下滑動: 338 像素
+2024-12-17 18:32:10 [INFO] Worker 3: 向下滑動: 264 像素
+2024-12-17 18:32:11 [INFO] Worker 8: 向下滑動: 225 像素
+2024-12-17 18:32:12 [INFO] Worker 7: 向下滑動: 236 像素
+2024-12-17 18:32:12 [INFO] Worker 1: 向下滑動: 386 像素
+2024-12-17 18:32:12 [INFO] Worker 6: 向下滑動: 235 像素
+2024-12-17 18:32:13 [INFO] Worker 10: 向下滑動: 242 像素
+2024-12-17 18:32:13 [INFO] Worker 5: 向下滑動: 229 像素
+2024-12-17 18:32:13 [INFO] Worker 4: 向下滑動: 308 像素
+2024-12-17 18:32:14 [INFO] Worker 2: 向下滑動: 303 像素
+2024-12-17 18:32:14 [INFO] Worker 9: 向下滑動: 360 像素
+2024-12-17 18:32:14 [INFO] Worker 3: 向下滑動: 259 像素
+2024-12-17 18:32:15 [INFO] Worker 7: 向下滑動: 373 像素
+2024-12-17 18:32:16 [INFO] Worker 8: 向下滑動: 285 像素
+2024-12-17 18:32:16 [INFO] Worker 1: 向下滑動: 243 像素
+2024-12-17 18:32:17 [INFO] Worker 6: 向下滑動: 247 像素
+2024-12-17 18:32:17 [INFO] Worker 10: 向下滑動: 287 像素
+2024-12-17 18:32:17 [INFO] Worker 2: 向下滑動: 375 像素
+2024-12-17 18:32:18 [INFO] Worker 5: 向下滑動: 360 像素
+2024-12-17 18:32:18 [INFO] Worker 3: 向下滑動: 351 像素
+2024-12-17 18:32:18 [INFO] Worker 4: 向下滑動: 356 像素
+2024-12-17 18:32:19 [INFO] Worker 9: 向下滑動: 284 像素
+2024-12-17 18:32:19 [INFO] Worker 7: 向下滑動: 290 像素
+2024-12-17 18:32:20 [INFO] Worker 2: 向下滑動: 315 像素
+2024-12-17 18:32:20 [INFO] Worker 8: 向下滑動: 247 像素
+2024-12-17 18:32:20 [INFO] Worker 10: 向下滑動: 388 像素
+2024-12-17 18:32:21 [INFO] Worker 1: 向下滑動: 398 像素
+2024-12-17 18:32:21 [INFO] Worker 5: 向下滑動: 294 像素
+2024-12-17 18:32:21 [INFO] Worker 6: 向下滑動: 223 像素
+2024-12-17 18:32:21 [INFO] Worker 4: 向下滑動: 381 像素
+2024-12-17 18:32:22 [INFO] Worker 3: 向下滑動: 262 像素
+2024-12-17 18:32:22 [INFO] Worker 7: 向下滑動: 225 像素
+2024-12-17 18:32:23 [INFO] Worker 9: 向下滑動: 385 像素
+2024-12-17 18:32:24 [INFO] Worker 8: 向下滑動: 252 像素
+2024-12-17 18:32:24 [INFO] Worker 5: 向下滑動: 335 像素
+2024-12-17 18:32:24 [INFO] Worker 1: 向下滑動: 341 像素
+2024-12-17 18:32:24 [INFO] Worker 2: 向下滑動: 308 像素
+2024-12-17 18:32:25 [INFO] Worker 10: 向下滑動: 253 像素
+2024-12-17 18:32:25 [INFO] Worker 3: 向下滑動: 299 像素
+2024-12-17 18:32:25 [INFO] Worker 4: 向下滑動: 331 像素
+2024-12-17 18:32:26 [INFO] Worker 6: 向下滑動: 222 像素
+2024-12-17 18:32:26 [INFO] Worker 9: 向下滑動: 270 像素
+2024-12-17 18:32:26 [INFO] Worker 7: 向下滑動: 293 像素
+2024-12-17 18:32:27 [INFO] Worker 5: 向下滑動: 304 像素
+2024-12-17 18:32:28 [INFO] Worker 1: 向下滑動: 315 像素
+2024-12-17 18:32:28 [INFO] Worker 8: 向下滑動: 346 像素
+2024-12-17 18:32:28 [INFO] Worker 2: 向下滑動: 370 像素
+2024-12-17 18:32:29 [INFO] Worker 6: 向下滑動: 330 像素
+2024-12-17 18:32:29 [INFO] Worker 10: 向下滑動: 266 像素
+2024-12-17 18:32:30 [INFO] Worker 4: 向下滑動: 394 像素
+2024-12-17 18:32:30 [INFO] Worker 3: 向下滑動: 366 像素
+2024-12-17 18:32:31 [INFO] Worker 7: 向下滑動: 338 像素
+2024-12-17 18:32:31 [INFO] Worker 9: 向下滑動: 385 像素
+2024-12-17 18:32:31 [INFO] Worker 1: 向下滑動: 249 像素
+2024-12-17 18:32:31 [INFO] Worker 5: 向下滑動: 271 像素
+2024-12-17 18:32:31 [INFO] Worker 8: 向下滑動: 289 像素
+2024-12-17 18:32:32 [INFO] Worker 2: 向下滑動: 299 像素
+2024-12-17 18:32:32 [INFO] Worker 10: 向下滑動: 332 像素
+2024-12-17 18:32:33 [INFO] Worker 6: 向下滑動: 306 像素
+2024-12-17 18:32:34 [INFO] Worker 3: 向下滑動: 254 像素
+2024-12-17 18:32:34 [INFO] Worker 4: 向下滑動: 371 像素
+2024-12-17 18:32:34 [INFO] Worker 9: 向下滑動: 331 像素
+2024-12-17 18:32:35 [INFO] Worker 8: 向下滑動: 343 像素
+2024-12-17 18:32:35 [INFO] Worker 5: 向下滑動: 226 像素
+2024-12-17 18:32:35 [INFO] Worker 7: 向下滑動: 374 像素
+2024-12-17 18:32:35 [INFO] Worker 2: 向下滑動: 389 像素
+2024-12-17 18:32:36 [INFO] Worker 1: 向下滑動: 212 像素
+2024-12-17 18:32:37 [INFO] Worker 6: 向下滑動: 397 像素
+2024-12-17 18:32:37 [INFO] Worker 10: 向下滑動: 318 像素
+2024-12-17 18:32:37 [INFO] Worker 3: 向下滑動: 270 像素
+2024-12-17 18:32:38 [INFO] Worker 4: 向下滑動: 309 像素
+2024-12-17 18:32:38 [INFO] Worker 7: 向下滑動: 235 像素
+2024-12-17 18:32:39 [INFO] Worker 2: 點擊 URL 時發生錯誤: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.execute_@chrome://remote/content/marionette/driver.sys.mjs:788:15
+GeckoDriver.prototype.executeScript@chrome://remote/content/marionette/driver.sys.mjs:700:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+2024-12-17 18:32:40 [INFO] Worker 8: 點擊 URL 時發生錯誤: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.execute_@chrome://remote/content/marionette/driver.sys.mjs:788:15
+GeckoDriver.prototype.executeScript@chrome://remote/content/marionette/driver.sys.mjs:700:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+2024-12-17 18:32:40 [INFO] Worker 6: 瀏覽器崩潰，已停止該任務
+2024-12-17 18:32:41 [INFO] Worker 5: 點擊 URL 時發生錯誤: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.execute_@chrome://remote/content/marionette/driver.sys.mjs:788:15
+GeckoDriver.prototype.executeScript@chrome://remote/content/marionette/driver.sys.mjs:700:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+2024-12-17 18:32:41 [INFO] Worker 9: 點擊 URL 時發生錯誤: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.execute_@chrome://remote/content/marionette/driver.sys.mjs:788:15
+GeckoDriver.prototype.executeScript@chrome://remote/content/marionette/driver.sys.mjs:700:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+2024-12-17 18:32:41 [INFO] Worker 1: 點擊 URL 時發生錯誤: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.execute_@chrome://remote/content/marionette/driver.sys.mjs:788:15
+GeckoDriver.prototype.executeScript@chrome://remote/content/marionette/driver.sys.mjs:700:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+2024-12-17 18:32:42 [INFO] Worker 3: 點擊 URL 時發生錯誤: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.execute_@chrome://remote/content/marionette/driver.sys.mjs:788:15
+GeckoDriver.prototype.executeScript@chrome://remote/content/marionette/driver.sys.mjs:700:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+2024-12-17 18:32:42 [INFO] Worker 10: 點擊 URL 時發生錯誤: ('Connection aborted.', ConnectionResetError(10054, '遠端主機已強制關閉一個現存的連線。', None, 10054, None))
+2024-12-17 18:32:42 [INFO] Worker 4: 點擊 URL 時發生錯誤: ('Connection aborted.', ConnectionResetError(10054, '遠端主機已強制關閉一個現存的連線。', None, 10054, None))

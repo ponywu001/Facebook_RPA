@@ -1,0 +1,20 @@
+2024-12-17 18:19:40 [INFO] 請選擇您要使用的 Excel 檔案...
+2024-12-17 18:19:42 [INFO] 選擇的 Excel 檔案路徑：C:/Users/user/Desktop/SuChenAI/Factbook-RPA-clickurl/data/fb_account_data_test.xlsx
+2024-12-17 18:19:42 [INFO] 請輸入最大多開數量 (1-10，預設為 1):
+2024-12-17 18:19:44 [INFO] 最大多開數量已設定為：1
+2024-12-17 18:19:44 [INFO] 螢幕寬度：2560，螢幕高度：1440，縮放比例：1.5
+2024-12-17 18:19:45 [INFO] clicks : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'action': True}]
+2024-12-17 18:19:45 [INFO] clicks : [{'url': 'https://www.facebook.com/share/18QgQ2Y2dz/', 'action': True}]
+2024-12-17 18:19:45 [INFO] 開始處理發文帳號...
+2024-12-17 18:19:45 [INFO] Worker 1: 開始處理帳號 66634899161
+2024-12-17 18:19:45 [INFO] 開始監控任務狀態...
+2024-12-17 18:19:51 [INFO] Worker 1: 代理 kamoney03.ddns.net:24004 設置成功
+2024-12-17 18:19:52 [INFO] Worker 1: Cookies 已加載成功: cookies\66634899161_cookies.json
+2024-12-17 18:19:55 [INFO] Worker 1: 帳號 66634899161 使用 cookies 成功登入
+2024-12-17 18:19:55 [INFO] Worker 1: 登錄成功，開始處理帳號 66634899161 的操作...
+2024-12-17 18:19:55 [INFO] Worker 1: 開始發文操作...
+2024-12-17 18:19:55 [INFO] Worker 1: 開始發佈貼文...
+2024-12-17 18:19:58 [INFO] Worker 1: 已點擊分享你的新鮮事
+2024-12-17 18:19:59 [INFO] Worker 1: 已設置分享對象
+2024-12-17 18:20:05 [INFO] Worker 1: 瀏覽器崩潰，已停止該任務
+2024-12-17 18:20:07 [INFO] Worker 1: 成功輸入文字內容：旅行讓人拓展視野，也增添了許多回憶。

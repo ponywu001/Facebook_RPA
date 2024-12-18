@@ -1,0 +1,52 @@
+2024-12-17 17:27:59 [INFO] 請選擇您要使用的 Excel 檔案...
+2024-12-17 17:28:04 [INFO] 選擇的 Excel 檔案路徑：C:/Users/user/Desktop/SuChenAI/Factbook-RPA-clickurl/data/fb_account_data.xlsx
+2024-12-17 17:28:04 [INFO] 請輸入最大多開數量 (1-10，預設為 1):
+2024-12-17 17:28:06 [INFO] 最大多開數量已設定為：10
+2024-12-17 17:28:06 [INFO] 螢幕寬度：2560，螢幕高度：1440，縮放比例：1.5
+2024-12-17 17:28:06 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 17:28:06 [INFO] clicks : []
+2024-12-17 17:28:06 [INFO] clicks : []
+2024-12-17 17:28:06 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 17:28:06 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 17:28:06 [INFO] clicks : []
+2024-12-17 17:28:06 [INFO] clicks : []
+2024-12-17 17:28:06 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 17:28:06 [INFO] clicks : [{'url': 'https://www.facebook.com/prestigetaiwan/posts/889301466651603', 'action': True}]
+2024-12-17 17:28:06 [INFO] 開始處理爬蟲帳號...
+2024-12-17 17:28:06 [INFO] Worker 1: 開始處理帳號 447387826081
+2024-12-17 17:28:06 [INFO] 開始監控任務狀態...
+2024-12-17 17:28:13 [INFO] Worker 1: 代理 kamoney03.ddns.net:24001 設置成功
+2024-12-17 17:28:14 [INFO] Worker 1: Cookies 已加載成功: cookies\447387826081_cookies.json
+2024-12-17 17:28:17 [INFO] Worker 1: 帳號 447387826081 使用 cookies 成功登入
+2024-12-17 17:28:17 [INFO] Worker 1: 登錄成功，開始處理帳號 447387826081 的操作...
+2024-12-17 17:28:17 [INFO] Worker 1: 開始爬蟲操作...
+2024-12-17 17:28:17 [INFO] Worker 1: 正在爬社團名單...
+2024-12-17 17:28:20 [INFO] Worker 1: 抓取群組名稱: 公開大社團
+2024-12-17 17:28:20 [INFO] Worker 1: 開始滾動到頁面底部...
+2024-12-17 17:28:24 [INFO] Worker 1: 抓取社團成員信息失敗: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.execute_@chrome://remote/content/marionette/driver.sys.mjs:788:15
+GeckoDriver.prototype.executeScript@chrome://remote/content/marionette/driver.sys.mjs:700:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+2024-12-17 17:28:25 [INFO] Worker 1: 瀏覽器崩潰，已停止該任務
+2024-12-17 17:28:26 [INFO] Worker 1: 帳號 447387826081 的任務已結束
+2024-12-17 17:28:31 [INFO] 開始處理點擊帳號...
+2024-12-17 17:28:31 [INFO] Worker 1: 開始處理帳號 66634899161
+2024-12-17 17:28:31 [INFO] Worker 2: 開始處理帳號 66637943259
+2024-12-17 17:28:31 [INFO] Worker 3: 開始處理帳號 66619622845
+2024-12-17 17:28:31 [INFO] Worker 4: 開始處理帳號 66935324825
+2024-12-17 17:28:31 [INFO] Worker 5: 開始處理帳號 66990183891
+2024-12-17 17:28:31 [INFO] Worker 6: 開始處理帳號 66823237283
+2024-12-17 17:28:31 [INFO] Worker 7: 開始處理帳號 66991704166
+2024-12-17 17:28:31 [INFO] Worker 8: 開始處理帳號 66646155782
+2024-12-17 17:28:31 [INFO] Worker 9: 開始處理帳號 447387826081
+2024-12-17 17:28:31 [INFO] 開始監控任務狀態...
